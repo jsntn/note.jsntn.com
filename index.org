@@ -1,0 +1,4 @@
+#+TITLE: Notes
+
+- [[file:wakeup-call.org][Wake-up Call]]
+- [[file:coding-with-emacs.org][Coding with Emacs]]
