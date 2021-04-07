@@ -3,3 +3,4 @@
 - [[file:coding-with-emacs.org][Coding with Emacs]]
 - [[file:index.org][Notes]]
 - [[file:wakeup-call.org][Wake-up Call]]
+- [[file:vim-in-japan.org][Vim in Japan]]
