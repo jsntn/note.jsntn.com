@@ -1,5 +1,7 @@
 #+TITLE: Notes
+- [[file:./building-things.org][Building Things]]
 - [[file:wakeup-call.org][Wake-up Call]]
+- [[file:blog-14.org][Blog 14 Years]]
 - [[file:coding-with-emacs.org][Coding with Emacs]]
 - [[file:vim-in-japan.org][Vim in Japan]]
 - [[file:the-past-2-weeks.org][The Past Two Weeks]]
