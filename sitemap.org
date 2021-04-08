@@ -4,3 +4,6 @@
 - [[file:index.org][Notes]]
 - [[file:wakeup-call.org][Wake-up Call]]
 - [[file:vim-in-japan.org][Vim in Japan]]
+- [[file:the-past-2-weeks.org][The Past Two Weeks]]
+- [[file:dr-1.0.org][The DR 1.0]]
+- [[file:time-flies.org][Time Flies]]
