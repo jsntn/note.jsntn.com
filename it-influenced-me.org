@@ -1,4 +1,3 @@
-
 #+TITLE: It Influenced Me
 #+DATE: <2021-04-14 Wed 18:53>
 Emacs 整一年，我得说它影响了我，就像东京一年的[[https://jsntn.com/essays/2017/01/22/japanese.html][日本人]]于我一样。
