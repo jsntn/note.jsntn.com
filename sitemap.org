@@ -1,5 +1,6 @@
 #+TITLE: Sitemap
 
+- [[file:change.org][What Does Not Change is Always Change]]
 - [[file:it-influenced-me.org][It Influenced Me]]
 - [[file:index.org][<hi@jsntn.com> Notes]]
 - [[file:building-things.org][Building Things]]
