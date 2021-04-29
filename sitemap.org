@@ -1,11 +1,12 @@
 #+TITLE: Sitemap
 
+- [[file:a-journey.org][A Journey]]
 - [[file:it-influenced-me.org][It Influenced Me]]
-- [[file:index.org][<hi@jsntn.com> Notes]]
 - [[file:building-things.org][Building Things]]
+- [[file:coding-with-emacs.org][Coding with Emacs]]
+- [[file:index.org][Notes]]
 - [[file:wakeup-call.org][Wake-up Call]]
 - [[file:blog-14.org][Blog 14 Years]]
-- [[file:coding-with-emacs.org][Coding with Emacs]]
 - [[file:vim-in-japan.org][Vim in Japan]]
 - [[file:the-past-2-weeks.org][The Past Two Weeks]]
 - [[file:dr-1.0.org][The DR 1.0]]
