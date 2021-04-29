@@ -1,6 +1,7 @@
 #+TITLE: Sitemap
 
 - [[file:a-journey.org][A Journey]]
+- [[file:change.org][What Does Not Change is Always Change]]
 - [[file:it-influenced-me.org][It Influenced Me]]
 - [[file:building-things.org][Building Things]]
 - [[file:coding-with-emacs.org][Coding with Emacs]]
