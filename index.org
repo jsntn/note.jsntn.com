@@ -1,5 +1,6 @@
 #+TITLE: <hi@jsntn.com> Notes
 * 2021
+- [[file:deployment.org][The Deployment]]
 - [[file:a-journey.org][A Journey]]
 - [[file:change.org][What Does Not Change is Always Change]]
 - [[file:it-influenced-me.org][It Influenced Me]]
