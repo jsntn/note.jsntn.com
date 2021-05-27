@@ -5,4 +5,4 @@
 #+HUGO_TAGS: 
 #+HUGO_CATEGORIES: 
 #+HUGO_DRAFT: false
-[[file:the-deployment.wav][the-deployment.wav]]
+[[file:deployment.wav][deployment.wav]]
