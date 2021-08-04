@@ -21,7 +21,7 @@
 (setq org-publish-project-alist
       `(
 	("notes"
-	 :base-directory ,(concat base-dir "notes/")
+	 :base-directory ,base-dir
 	 :publishing-directory ,(concat base-dir "html/")
 	 :base-extension "org"
 	 :recursive t
@@ -53,7 +53,7 @@
 	 ;; :with-date t
 	 )
 	("static"
-	 :base-directory ,(concat base-dir "notes/")
+	 :base-directory ,base-dir
 	 :publishing-directory ,(concat base-dir "html/")
 	 :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf\\|wav"
 	 :recursive t
