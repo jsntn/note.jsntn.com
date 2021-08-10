@@ -1,10 +1,5 @@
-#+HUGO_BASE_DIR: ../
 #+TITLE: haikebang.org
 #+DATE: <2021-07-27 Tue 10:19>
-#+HUGO_AUTO_SET_LASTMOD: t
-#+HUGO_TAGS: 
-#+HUGO_CATEGORIES: 
-#+HUGO_DRAFT: false
 #+BEGIN_QUOTE
 人类创造出的产品里，只有那些为了满足自己而作的，才是真正值得读、值得看、值得听的。
 满足全世界这个目标太大，你很难射中靶心。
