@@ -2,6 +2,7 @@
 * 2021
 - [[./shufang-2.0.org][一个人的书房 2.0]]
 - [[file:haikebang.org][haikebang.org]]
+- [[./schizophrenia.org][Schizophrenia]]
 - [[file:deployment.org][The Deployment]]
 - [[file:a-journey.org][A Journey]]
 - [[file:change.org][What Does Not Change is Always Change]]
