@@ -25,6 +25,8 @@
 - [[./cryptomator-server.org][Cryptomator Server]]
 * 2017
 - [[./1st-day-in-yokohama.org][The First Day in Yokohama]]
+* 2016
+- [[./the-home.org][THE HOME]]
 * 2015
 - [[./austria.org][Austria]]
 - [[./resigned.org][He Just Resigned]]
