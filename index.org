@@ -16,6 +16,12 @@
 - [[file:the-past-2-weeks.org][The Past Two Weeks]]
 * 2019
 - [[file:dr-1.0.org][The DR 1.0]]
+- [[./refactoring.org][About Refactoring]]
+- [[./bye-buddies.org][Bye! Buddies.]]
 - [[file:time-flies.org][Time Flies]]
+* 2018
+- [[./cryptomator-server.org][Cryptomator Server]]
+* 2017
+- [[./1st-day-in-yokohama.org][The First Day in Yokohama]]
 * 2012
 - [[file:me-and-this-city.org][Me and This City]]

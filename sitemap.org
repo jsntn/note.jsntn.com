@@ -16,4 +16,6 @@
 - [[file:the-past-2-weeks.org][The Past Two Weeks]]
 - [[file:dr-1.0.org][The DR 1.0]]
 - [[file:time-flies.org][Time Flies]]
+- [[file:cryptomator-server.org][Cryptomator Server]]
+- [[file:1st-day-in-yokohama.org][The First Day in Yokohama]]
 - [[file:me-and-this-city.org][Me and This City]]
