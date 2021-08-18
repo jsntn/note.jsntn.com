@@ -4,6 +4,33 @@
 (package-initialize)
 (package-refresh-contents)
 
+(defun eh-org-clean-space (text backend info)
+  "在 export 为 HTML 时，删除中文之间不必要的空格"
+  ;; https://github.com/hick/emacs-chinese#%E4%B8%AD%E6%96%87%E6%96%AD%E8%A1%8C
+  (when (org-export-derived-backend-p backend 'html)
+    (let ((regexp "[[:multibyte:]]")
+	  (string text))
+      ;; org 默认将一个换行符转换为空格，但中文不需要这个空格，删除
+      (setq string
+	    (replace-regexp-in-string
+	     (format "\\(%s\\) *\n *\\(%s\\)" regexp regexp)
+	     "\\1\\2" string))
+      ;; 删除粗体之前的空格
+      (setq string
+	    (replace-regexp-in-string
+	     (format "\\(%s\\) +\\(<\\)" regexp)
+	     "\\1\\2" string))
+      ;; 删除粗体之后的空格
+      (setq string
+	    (replace-regexp-in-string
+	     (format "\\(>\\) +\\(%s\\)" regexp)
+	     "\\1\\2" string))
+      string))
+  )
+(with-eval-after-load 'ox
+  (add-to-list 'org-export-filter-paragraph-functions 'eh-org-clean-space)
+  )
+
 (require 'ox-publish)
 
 ;; set up the project for `ox-publish`
