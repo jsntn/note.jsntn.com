@@ -13,6 +13,7 @@
 - [[file:coding-with-emacs.org][Coding with Emacs]]
 * 2020
 - [[file:vim-in-japan.org][Vim in Japan]]
+- [[./japanese.org][The Japanese]]
 - [[file:the-past-2-weeks.org][The Past Two Weeks]]
 * 2019
 - [[file:dr-1.0.org][The DR 1.0]]
@@ -24,5 +25,9 @@
 - [[./cryptomator-server.org][Cryptomator Server]]
 * 2017
 - [[./1st-day-in-yokohama.org][The First Day in Yokohama]]
+* 2015
+- [[./austria.org][Austria]]
+- [[./resigned.org][He Just Resigned]]
 * 2012
 - [[file:me-and-this-city.org][Me and This City]]
+- [[./torre-di-pisa.org][Torre di Pisa]]
