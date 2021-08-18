@@ -1,0 +1,24 @@
+#+TITLE: About Encryption
+#+DATE: <2019-10-28 Mon 19:00>
+用了几周零碎时间看了[[https://jsntn.com/books/tua.html][阿桑奇的自传]]和一些关于密码学和加密解密的材料，记录了一点过程
+中的实践、想法和收获。
+
+强化 Evernote 的加密和隐私保护
+
+> https://jsntn.com/secure-evernote.html
+
+Vim 加密解密
+
+> https://jsntn.com/go/vim.html
+
+把便携软件装进“隐私盒子”
+
+> https://haikebang.com/secure-portable.html
+
+「译文」便携版 Cryptomator
+
+> https://jsntn.com/software/portable-cryptomator.html
+
+关于「密码」的一些建议
+
+> https://haikebang.com/passphrase.html

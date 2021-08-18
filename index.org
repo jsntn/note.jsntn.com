@@ -16,6 +16,7 @@
 - [[file:the-past-2-weeks.org][The Past Two Weeks]]
 * 2019
 - [[file:dr-1.0.org][The DR 1.0]]
+- [[./encryption.org][About Encryption]]
 - [[./refactoring.org][About Refactoring]]
 - [[./bye-buddies.org][Bye! Buddies.]]
 - [[file:time-flies.org][Time Flies]]
