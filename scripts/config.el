@@ -15,16 +15,16 @@
 	    (replace-regexp-in-string
 	     (format "\\(%s\\) *\n *\\(%s\\)" regexp regexp)
 	     "\\1\\2" string))
-      ;; 删除粗体之前的空格
-      (setq string
-	    (replace-regexp-in-string
-	     (format "\\(%s\\) +\\(<\\)" regexp)
-	     "\\1\\2" string))
-      ;; 删除粗体之后的空格
-      (setq string
-	    (replace-regexp-in-string
-	     (format "\\(>\\) +\\(%s\\)" regexp)
-	     "\\1\\2" string))
+;;      ;; 删除粗体之前的空格
+;;      (setq string
+;;	    (replace-regexp-in-string
+;;	     (format "\\(%s\\) +\\(<\\)" regexp)
+;;	     "\\1\\2" string))
+;;      ;; 删除粗体之后的空格
+;;      (setq string
+;;	    (replace-regexp-in-string
+;;	     (format "\\(>\\) +\\(%s\\)" regexp)
+;;	     "\\1\\2" string))
       string))
   )
 (with-eval-after-load 'ox
