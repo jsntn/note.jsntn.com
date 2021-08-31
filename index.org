@@ -1,6 +1,7 @@
 #+TITLE: <hi@jsntn.com> Notes
 * 2021
 - 🔞 [[./kimono.org][Kimono]]
+- [[./the-past-year.org][The Past Year]]
 - [[./read-fengtang.org][Read Feng Tang]]
 - [[./pyim.org][pyim]]
 - [[./shufang-2.0.org][一个人的书房 2.0]]

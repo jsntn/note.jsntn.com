@@ -1,0 +1,3 @@
+#+TITLE: The Past Year
+#+DATE: <2021-08-25 Wed 21:34>
+[[./images/the-past-year.jpg]]
