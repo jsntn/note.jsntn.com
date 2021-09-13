@@ -1,6 +1,7 @@
 #+TITLE: Sitemap
 
 - [[file:kimono.org][🔞 Kimono]]
+- [[file:the-past-year.org][The Past Year]]
 - [[file:read-fengtang.org][读《活着活着就老了》]]
 - [[file:pyim.org][PYIM]]
 - [[file:schizophrenia.org][Schizophrenia]]
