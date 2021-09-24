@@ -1,5 +1,6 @@
 #+TITLE: The Excellent Employee
 #+DATE: <2021-09-24 Fri 12:57>
+#+BEGIN_SRC
 -----BEGIN PGP MESSAGE-----
 
 hQIMA98Fje+r/tGHARAAqfYfcOGbxfUnEuICDQqdmiMfHzzYHuSpcB3TWW1a6Zud
@@ -27,3 +28,4 @@ pzw7oFx3V4GWYeNuFsOOZUaRI9nCO+YBQu3zf7c1YaeIIA0//FplwppROfG44b8o
 IsGhK0Zr94x0fPZCFHXESNGg
 =tSvi
 -----END PGP MESSAGE-----
+#+END_SRC
