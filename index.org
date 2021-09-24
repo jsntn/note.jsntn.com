@@ -1,5 +1,7 @@
 #+TITLE: <hi@jsntn.com> Notes
 * 2021
+- [[./tee.org][The Excellent Employee]]
+- [[./dr-startup.org][DR Startup]]
 - 🔞 [[./kimono.org][Kimono]]
 - [[./the-past-year.org][The Past Year]]
 - [[./read-fengtang.org][Read Feng Tang]]
