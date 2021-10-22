@@ -1,5 +1,8 @@
 #+TITLE: Sitemap
 
+- [[file:mr-kay.org][Mr Kay]]
+- [[file:tee.org][The Excellent Employee]]
+- [[file:dr-startup.org][DR Startup]]
 - [[file:kimono.org][🔞 Kimono]]
 - [[file:the-past-year.org][The Past Year]]
 - [[file:read-fengtang.org][读《活着活着就老了》]]

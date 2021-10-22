@@ -1,5 +1,6 @@
 #+TITLE: <hi@jsntn.com> Notes
 * 2021
+- [[./mr-kay.org][Mr Kay]]
 - [[./tee.org][The Excellent Employee]]
 - [[./dr-startup.org][DR Startup]]
 - 🔞 [[./kimono.org][Kimono]]
