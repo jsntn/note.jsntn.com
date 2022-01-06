@@ -1,0 +1,935 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<!-- Made using rss-roller https://github.com/maxhebditch/rss-roller -->
+<channel>
+<title><hi@jsntn.com> Notes</title>
+<link>https://note.jsntn.com</link>
+<description>Some notes from Jason Tian</description>
+<atom:link href='https://note.jsntn.com/rss.xml' rel='self' type='application/rss+xml' />
+<item>
+        <title>Mr Kay</title>
+        <link>https://note.jsntn.com/mr-kay.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">Mr Kay</h1>
+<pre class="example">
+-----BEGIN PGP MESSAGE-----
+
+hQIMA98Fje+r/tGHARAAl6Ruo+a+HS8feI4jwFkcNrgTAi+wK0J/sF96eg1R7IP9
+YPjUju3v3NQRpffcTXza66nYG2XTFXdLpgGB7xCobrjeaCi892JLFh1Tn0ju2RQI
+PW+kE2IzynXbZ7THuKo8sO9/wLx2ABHDhAN/1VlZ6Lelh6qC0Zf88586nV99LD7y
+NTczanaBkvVgDZBSucYGEa2OgCRhPQfXJ7huA6LDoxsZNqAUORTKhOi6dKrY8wRm
+oWNNE1aq6NAC990kcYJMZ5KD//uapSsDVXpOv+ghqowvUj0Q+Eif+KIzWzg8vnrK
+HYeiKKlqDsR4DSM1Cp8VQIMrmpbmW3p1TCEhDRCagj9FMGSJu8ctVEpRpyb3LFyc
+vn5Kc2hkG9+RKzjgKytH/mzJh/9uEsYmocc+UwX1g/UpyhxC2fS90QgsiRYP9P9q
+cO/1kuIGOqase68f6LGyHzS34GTlxu0Oq2Vwl3zycjGwE4yTiRDJOh6up31DEakM
+LoUlV4e6M6Qa1QrYjbLxwqr8hbU5tsEqtOIMWbZGizx3Uv/SPTQAk7EHFem74i7w
+WIDiU0+bLIlNY2kyEViSsVsmitQsCjG20wiQL7PwEdnZy2GQ4jzDGe4AU4VBtTKo
+QZvcs9vCXyzVojErNv2Czvy7FLXR5vNS1IqBPWpy1wIA7hwUDbm2oQwUS/+SXa/S
+6QEP7hfb98ddbQdpIOqcC9/Ln7eU19IePV/biKYOfETrwEhEDM22kddCUKx3v5ze
+N6Pz6+QU1/jpaFySNVxC0cFYhslqxOzGXne3Jpm1ouTMr2/lrUPYAQ8kBFjv/nTL
+oesMXFYxKgbxAqW3KI0IR5DHjROEghGQkHd20A980oI+dr6DxKF9jgQkOCTF6yRZ
+t2zw30sLc+gGpUKp7E4/Vsc4UjG24LGLTSlL6IHK7/HgunNtwPSjGevi/iAsT4ND
+rXjPRH91ZWu/zxKxfVDUiov5mU7Xxl9ssA8Bm7tmUXj8TPuq/BlASts83VtsnFxi
+jxpNlaG68TSx+4E4NgyZ66yOZ66jidspQD4gnw9aMqU0NEXgtlyCtPPJya56xW8H
+L5X4yqiYYvc4j3uRCUgOGPufMyQUZgjrqkLn86MD2zwvsLBfxyWshoW/ao8Bt9br
+Hx+9ENWaaMj/kLwki2gAEPu85ZYQJeO6XNsloKaAfOhFA4W7s8a6I2I3wkVzJjiD
+DoRC/dytsCUTuPJY3oHbx02SPkDcsRYeUKw0sXpykV+danloR90Ue3REVaJd6264
+Q9HLXCqKVekDe73gr5D6hPYsoAI+ASgG1JDb2qFeMROUhrZZ/iJOLq/52gLgNfVP
+JPul+HqovlUuOV1Sd8LHbpodTRSOxnpo0Rqz9XmB2igzftzm9xnHjFbr3Yrd7YVy
+sgMn++VrRO3CWSV1XshtAy+REQzlKNE4++bOJ/jnW+YDKfg8njyWzzXAhnfQKZJq
+3bfAmy1h2CubQu9sVpa7cTECG6gYgfLXcWcsg3Jop3sGlcSDavsxUOXjQbg+gq8Q
+8NErEfhPJgrjudkDhRuQ8A==
+=B00K
+-----END PGP MESSAGE-----
+</pre></description>
+        </item>
+<item>
+        <title>The Excellent Employee</title>
+        <link>https://note.jsntn.com/tee.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">The Excellent Employee</h1>
+<pre class="example">
+-----BEGIN PGP MESSAGE-----
+
+hQIMA98Fje+r/tGHARAAqfYfcOGbxfUnEuICDQqdmiMfHzzYHuSpcB3TWW1a6Zud
+nLPhxG/Lkq6OZSVfOzky4tYwC0ByT7e4SA+9W/URbYnGLI+1s8GgBsZ17MwYs2Oe
+RcgykKp9NBranaXtSWMYGHW1mh3BiMGZQB92BInHc4rETeqcmVbLwWTq2r4Ddke4
+VyHD6FSIxvEcTAfxVCzzy6U8natfT1upZiag92TEdlfwc1lRSZ6fMleKQTHemm9q
+05Hl88TlNIy9JT6L8KM0IO/JC8bEgXmLe0jAVPn4JiZgAqj9EH6Rriota9J055hr
+gaXZ0F0KCMY5TnjbFZGGV+hGS1XbsXmcNk2RuexOF37InaoESV+fxZkaDoKJAWLc
+wdrs2FEBQk7hH4sFLUek8aMFkZY442EzAxlK2FJa0IqDX2q9MymocgADgz3VVgPU
+/ad74DI2sCrvhJrzpRnd7STnwVCHkl070ETWtq5nPB6smdTCOoi0ltbz4i6hGZlK
+vHoUXLREwnUq/eK1E3OuwChgjCpzF8BPbWzEpD6SzzvOXHzIfFBHYr+XQKqHpy8P
+ytp2AUPI0IMxmtrEjZQaHy3iQHEDxB5HaA9OT75iwF05pQq1uNYhteg24AbHoObU
+rMP2sAw1voAIfX7vQJ2aCEJx8I50Vb79U+BacmafmyEyft7Eup3qDu1Zh7UxcTvS
+6QHKrU8M/vCza0fzyllClNcCR5CFWLheybSDbIJaYc2Vdbp7JvdYodMHam0w8Qyp
+7sTdPAzVZVfZJM1C5MJf9DdFB6owR1KIM9GRF3dBwCwhUTooDU6CICF3swc/l6q4
+8wWmrpMmhhwXuTv16CxiySAgiMdilFtOqKgqEl42rKM4aqyI3oJmaeVp4kCVRaid
+CYnnDd/XFthS4gifFggVZqDWWzzAxOxG08RqozJWDkWePFvFoD+WAY3EJESTnDGg
+aHtmGPCanGv4o8fbm0aGVO9s2mf82EQw2lDV2NFBa8QkCJMgy6wqGgmOdO0ojZvV
+qw/zMcTPZiP44RAbW1lXF4RPEFvx+pFoRcM26EF9mUdat8O1Za+UuH9h7iai4rMA
+lZpX5NVPNhiSU3/dSJ6WIzJmM37usKAMzOnb3O8SIaRJfHivfNw3+/gDaTQXVq7E
+QlBvdkH/q1ipjYkdiqDZqLb9aZESQRpKbmY5zktubCBy6PSxGEk9jzbC7ok0Yx75
+B+2zBYpAD/LFHD0+C8nqm3l/56E/bQT+mE/q0+H7crMVqbadlnb1MEaSfcx1o1M1
+mD4HRAP7xcPf58hNNgtgHSKuUfTeKsrTfjzQbgbMSVNZp0DLwSTVTWL/53e1JQGg
+pzw7oFx3V4GWYeNuFsOOZUaRI9nCO+YBQu3zf7c1YaeIIA0//FplwppROfG44b8o
+IsGhK0Zr94x0fPZCFHXESNGg
+=tSvi
+-----END PGP MESSAGE-----
+</pre></description>
+        </item>
+<item>
+        <title>DR Startup</title>
+        <link>https://note.jsntn.com/dr-startup.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">DR Startup</h1>
+<pre class="example">
+-----BEGIN PGP MESSAGE-----
+
+hQIMA98Fje+r/tGHARAAkHfQIYZWPHc+jPLCzV3Y8GC2gUnYnO2J8PELuKp2TDwg
+O2cQ5hb3EqiJI4cxpyPC6h5Az2bHA2pyO9pJFzKW5v34rsbLwtlU+EBurEnudaf2
+lfDhtOmytsr0zrRPoZYcwC08xcTDrgKtXHp29uXQ3HYll406h7NJJb+6fgiguMO3
+lXQarj7qnt7+AN5ECzJt31fQ9Y4G7oYNeRbeG4KRMk289DARHm7v50vvEf14+0Ot
+yZyWy7pBsaJaudzU91so4KkJY9G27nqXbkhEJhgVSYVdvbMIfPelrY4J9xfEjXyN
+ouTpRT+pabesfJnwlq66L2QD0tDyEfVOYY3cPt2tTYbNGbev897FNR4diiAtS+EL
+m+tsNcp4mkim6K77yxXbEatF4N7TU+bB5yZ3HmMU5ba/w6iUAERnaLcyn5HpszJ4
+uhlxPbha8nlSkXoCpFNru975ljI0qqmQFofY9wv5JC17b3pgUISiLPZP1FII0h7n
+P0sufffnFJHQqXbxbpFQkjkayA0ecpXhfHawTpsS78OanRRIPLySQpWknjJmf+6/
+Wwhf/Ib6mci4EMGHvaxIf6294r5ljuUcipoyI30vMOYOdxUFk5gESFE5X534Ry9N
+TGbmn3WMTs+IYduJQgi3Mgo3RrXjVNusuurJzwk7c9fHMzj63HZPWthP2Aw4c+3S
+6QEabWW/4FP/dBwCEtzx78ed6772VysuUFIWq4HmeZ4dcZ4KNGRoOCS0kOSuNkQ4
+DtxkT9Et0kv28iVutEi+jP0/Co1tVEz4Q7yyjvEPB1YBxF+TGrnqs9JGelSudSJl
+Ke+FQ7d061MQqlTH5fRGkaOpbWPWh6qEvjdTCDWUY+Hw8LfgfIXdwGeUt3evidrD
+zEKChcgz9fvhenruokySir9NMSTiFtICD55QTaPyf0MeZuMtofrBTaEBa7XQmq9K
+9uMILrjUcKRc0S5bJYs0QgcX0Bo1p4yF6ygJJGHzmrvGNsqpFKAs2qmZNL4smsoe
+rll8fNlbCCs02RrNXdJMLMLowyY1BnJ3HMqjzx+JYfYCqXYM5qtgSc64bZSTDIYT
+LdPyizMey2AvawoYbzX883BP5UdDW2xeOyiTy9SztPCUFV4oUXY0d40emgCZs7UX
+HxBqneiVVgnPfGoJ4btXDtV30Vq/BjChne1x7CJMeK6wnbIlD4k2J5HeF7hxDeKG
+z5y8bLcs6g34kwb5kV8wm5T3jKC68obAE5/O5sFkxjsPrq+ggWWFRQyEMxnF5fRi
+hyLi5A6HqY3RLs+XEir0WTZLxE3cg0PD46gFlWkmKi6HgmPi7hzHEQMa1/xE+hgQ
+mEsX2xWMAse4K6cc21kVDcS+Fu+DF3sqWp7tf7C1Gy4ntll2ZThevV9fzLEEaMob
+T71QZUkcoNqQrol6DWX+DEFzEPK1XFk0H6zQaplF1oB81goTOIHGdCFQOC6e6jgF
+8espM0BCGa14Y7IHESZacdVI5k+uk5qt9RyDNdq618FHBN96D7kwJcJtaS3ftk62
+61eaFxu3tt7rXTg1v410X09EkC6iu8qxnCnfaZvrUju80Y/pCb430M1lf9SbMqqJ
+USspcKcbuScWE1F1gTGIL68wD9pYX65z
+=Laxe
+-----END PGP MESSAGE-----
+</pre></description>
+        </item>
+<item>
+        <title>一个人的书房 2.0</title>
+        <link>https://note.jsntn.com/shufang-2.0.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">一个人的书房 2.0</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">2021/09/21</a></li>
+<li><a href="#sec-2">2021/09/18</a></li>
+<li><a href="#sec-3">2021/09/11</a></li>
+<li><a href="#sec-4">2021/08/11</a></li>
+<li><a href="#sec-5">2021/08/07</a></li>
+<li><a href="#sec-6">2021/08/06</a></li>
+<li><a href="#sec-7">THE STORY</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1">2021/09/21</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-09-21 Tue 11:39&gt;</span></span>
+</p>
+
+
+<div class="figure">
+<p><img src="./images/shufang-2.0_20210921113913.jpg" alt="shufang-2.0_20210921113913.jpg"></img>
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2">2021/09/18</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-09-18 Sat 23:01&gt;</span></span>
+</p>
+
+
+<div class="figure">
+<p><img src="./images/successful-auction.jpg" alt="successful-auction.jpg"></img>
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3">2021/09/11</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-09-11 Sat 16:32&gt;</span></span>
+</p>
+
+
+<div class="figure">
+<p><img src="./images/auctions-transfers.jpg" alt="auctions-transfers.jpg"></img>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4">2021/08/11</h2>
+<div class="outline-text-2" id="text-4">
+
+<div class="figure">
+<p><img src="./images/shufang-2.0-plan_20210811.jpg" alt="shufang-2.0-plan_20210811.jpg"></img>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5">2021/08/07</h2>
+<div class="outline-text-2" id="text-5">
+
+<div class="figure">
+<p><img src="./images/shufang-2.0-plan_20210807.jpg" alt="shufang-2.0-plan_20210807.jpg"></img>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6">2021/08/06</h2>
+<div class="outline-text-2" id="text-6">
+<p>
+我上月末想起了“<a href="https://m.weibo.cn/1726100863/4499349130306624">一个人的书房 2.0</a>”的计划，找 Olive 聊了一下。
+</p>
+
+<p>
+凑巧的是大夏今天也发了条<a href="https://m.weibo.cn/1906217987/4667116685627624">微博</a>，我突然觉得这件事应该认真做一下了。
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7">THE STORY</h2>
+<div class="outline-text-2" id="text-7">
+
+<div class="figure">
+<p><img src="./images/shufang-2.0.jpg" alt="shufang-2.0.jpg"></img>
+</p>
+</div>
+
+
+<div class="figure">
+<p><img src="./images/shufang.jpg" alt="shufang.jpg"></img>
+</p>
+</div>
+</div>
+</div></description>
+        </item>
+<item>
+        <title>🔞 Kimono</title>
+        <link>https://note.jsntn.com/kimono.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">🔞 Kimono</h1>
+<pre class="example">
+-----BEGIN PGP MESSAGE-----
+
+hQIMA98Fje+r/tGHAQ//XSMa+v+b89EnTwg7LAclp2NBp8cNleMNQ3oS6veo3MPJ
+IUTFiCpXTei0KqsxkVoRYYZc+ofHi5csgHMKid5lhOBlwaLOkXqhSCVIgOOFfB2Q
+X8E1RZYetg1HT/F2mqIkvatyZC+smnjp5MRA+V6tY6e6ThLhUIkccu9d9vmsUEcc
+WJeZ4QPazo4nGN505z4F/hLb1R7oiMW7ZmVuTWbc/JnkWA4sOaenL+ahlTV2kwBK
+EFitlZp0PvATjleCBsnatjDsOIuMXtVh801G2MeSRHWfnE+Zqo9BFTs5YfyqZ+AO
+Rvquu0EcUuJRhcFBI5SkylZoVO4Fm1s6Y/7uwN9ONG5diQyDIKEZelifuGXBySeK
+r9sw3tdWjUvNiyARYZ9lAxhjghsE4aiMrPxw+gZ0HMLEXTnNywAo2hSTqxc/wdNA
+ah0cEupq9qvNsUGMqkQ/E8BMC3SnvCveUcTUO+aAcIri9GoQaWGe207Cexx4CvCy
+V2CYuxKoVu/Uhlz+Iiapv+OoOm5xaiGBhSr6dUCWqvDhIRVuK/1ji7y68TxlyUD4
+P5jg7MheyplJDBJlQfPp/6Oei9TkJU+g129ipPee21NaDPuP+6JXpwiaEyyHlG1j
+ZKqSVhznW9gjUweBJZPCALAG43RQ1jbMDUfJJoYvR48c5ecFR2/KPBTwFH5W01TS
+wGkB9aItYoBrSRdhqjxN6rqXSb2xczGTzVAm5qjQrQb+jJ22BWGTBWiZDWxeII3L
+9CL7SAQbh/5LmjcqmKGQ0AqsKdTSMbJbiVPS92iIiYDcvOHyOVpR7OWtvyumNeiR
+KAVrkdR2Rw8QaR6TsKpR/CPfkAIY+C13W+k5fOgF4ul8R4n48zzMzKMZnCPNh4Hi
+JzEZ6uMyOZmrl7EpRgcycMBH3ctoZuao0qsYAO2OeGXj6+nPZ02/CTHFsHb6vrl/
+JPxlP6o+sb5viy+tWt++DQWuixObvH6KvJ59RcKWraTZLRQ7S/j9JnZUz5BnX4SM
+kEu4uGA1Nkc4kmgM8Um6I7ZrS407gsg07Ayow3sGsyNSagoahrjdSQU19jKnp8oD
+7jiuERI5EFYAOEg=
+=cjlR
+-----END PGP MESSAGE-----
+</pre>
+
+<p>
+Link: <a href="https://jsntn.com/books/old.html">https://jsntn.com/books/old.html</a>
+</p></description>
+        </item>
+<item>
+        <title>The Past Year</title>
+        <link>https://note.jsntn.com/the-past-year.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">The Past Year</h1>
+
+<div class="figure">
+<p><img src="./images/the-past-year.jpg" alt="the-past-year.jpg"></img>
+</p>
+</div></description>
+        </item>
+<item>
+        <title>读《活着活着就老了》</title>
+        <link>https://note.jsntn.com/read-fengtang.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">读《活着活着就老了》</h1>
+<p>
+我就不解释在我 Kindle 用得越来越少的情况下为什么几乎不再买中文电子书了。
+</p>
+
+<p>
+我去到了 Z-Library 这个很牛 x 的电子书下载站，挑着下载了那个最大的 4.72 MB 的《活着活着就老了》的 epub，然后导入到了 iOS 掌阅 iReader 中，应用“方正黑体”。
+</p>
+
+<p>
+世界美好。
+</p>
+
+
+<div class="figure">
+<p><img src="./images/read-fengtang.png" alt="read-fengtang.png"></img>
+</p>
+</div></description>
+        </item>
+<item>
+        <title>PYIM</title>
+        <link>https://note.jsntn.com/pyim.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">PYIM</h1>
+<p>
+我开始使用 <a href="https://github.com/tumashu/pyim">pyim</a> 了！在中英文结合的工作环境下，应用了探针之后，那种体验直叫人想大声痛哭，一边抹着眼泪一边疯狂地敲击键盘，大声感叹——太牛 x 了！太 xx 好用了！我为什么不早点开始用这个！我那大好的青春年华……
+</p></description>
+        </item>
+<item>
+        <title>haikebang.org</title>
+        <link>https://note.jsntn.com/haikebang.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">haikebang.org</h1>
+<blockquote>
+<p>
+人类创造出的产品里，只有那些为了满足自己而作的，才是真正值得读、值得看、值得听的。满足全世界这个目标太大，你很难射中靶心。
+<br></br>
+— Tim Bray
+</p>
+</blockquote>
+
+<p>
+谨以此站，致敬那些对问题不轻言放弃的人，那些信奉自由而不盲目的人，那些在浮躁的现世依然坚定理想主义不妥协的人。
+</p>
+
+<p>
+以名誉为重，却并非来自强权、亦或外貌、或者能力，而是源自施与，将时间，态度，创意及创意结果贡献他人。
+</p>
+
+<p>
+始于态度，这里没有领导者，却有为人尊重的英雄，我们对傲慢的自我中心者永不认同。
+</p>
+
+<p>
+🔗 haikebang.org
+</p></description>
+        </item>
+<item>
+        <title>Schizophrenia</title>
+        <link>https://note.jsntn.com/schizophrenia.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">Schizophrenia</h1>
+<pre class="example">
+-----BEGIN PGP MESSAGE-----
+
+hQIMA98Fje+r/tGHARAAydM3jZVRf23DVCJvlMFYIs2/u9eQSWHDoYjmVAPAkpgd
+BAPKxoGgBB5qkl8LNpabGYUMh5Q+xhvi0Ac8fPNicESk3OhGmQ/7b9OhWZwj9fKO
+oRAFcfLMlt+knZvd/6krKm9zNvK/XGP9YtWA4dNIqpcGLAS8uG5PO5DKrNXIFjvn
+JR0PaVJzFPz1+rrSUPfz2CS8u2+92VFlQs3E+jEIB7lHHUS2gd0DUd5I/eMRqYZB
+pqBc6HJqLXiLe/IV233FaK6os9Mxu6lCUEzP9GcCo3HjJWLTAKJF5Tvm7WFQb32e
+1vjJOCcRdcHA9wHu789rcZGhjWKbJ0L2h1K5zOpv3qGyRDKeiS8vJdJbqACGxm8G
+KloUAqDtFkHbsHiBW6L15L+h8TFHz1L5ohU8CF+EuufOnSiGmYJou+wxREZXUFbT
+lSArworRChnlcKNjSjNLzJ1K1pSJzHUyxblRZCZ5k6iHkNRHLzAeVoliakHWULK1
+Yq0wFFKQ4BJWBGEcr9D9ozzmDBUKpM7vtbxwmlo5j1PLv8XFglmsVV+Yn4NkPXt/
+5askGis+C5/Z5K9YMPK1X0/MlyZDrcWlhmasH9PRincItnk+oTI/uyu4HvAzRoJS
+FYNwYK2nqQO2iSfk/cGrBpWSh3cu20MJ/Pd8SPkQM/fMhQtYfwMzWGkjUCkjkP3S
+wL0BrLeq51an261gv7EUPGiK9iVSEtWaCIOXKh5KSgJNw7GrlO5fG8tiyUN5sVjm
+LwujvE1WHv8Yg3XQWPE1fjLpw/1DuijdyJt/u3iQwdp6j0OzjzD00z1lAKvsQEwf
+5qUr+nbhrTDHRxGTCMqwZbqGgfSJ/kM9D1glqZl6yG2yDz6tc6yTVycWfmNaCJlf
+Gj7ba/3Io4YyQRMLPi63P2tReTvoLle4ALwe0ZPFeYeE9S9taExHs/dyuFs7du8w
+JPQur40nwlKSvZo5kXzcSsp9aHz9uPbM2sakFssOTMC36w7AzG3wZl3f29/0oJ69
+oE4FU72Vi2wRBMTE8F2QlC5RMdX5Yu/Jkn9802Ij7AVTJt3p51qEu0ebFl6oPZMa
+Lg+c3rqILWf46VbcU4RNIjSsuhgq8gWsYgGufXFVxxCWgbFWlU0ub1Gep+dvdN2B
+xHjvgSCACYIjqP6QBr9lrqtZILoBhqy63sVCxlqAKXeqMqF8hTcTSD8Si/uaWd0=
+=MhfI
+-----END PGP MESSAGE-----
+</pre></description>
+        </item>
+<item>
+        <title>The Deployment</title>
+        <link>https://note.jsntn.com/deployment.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">The Deployment</h1>
+<p>
+<a href="deployment.wav">deployment.wav</a>
+</p></description>
+        </item>
+<item>
+        <title>A Journey</title>
+        <link>https://note.jsntn.com/a-journey.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">A Journey</h1>
+<p>
+We never thought about giving up. We stood up for what the real value is. we fought for the right reason but without asking for payoff. We passed the brambles, the toughest time - for the right thing. We worked for the efficiency improvement, little by little, again and again, never compromise, never ever. We sacrificed, we cared about the end users, as we always believe - we are contributing ideas, we are building good things, and we can talk on same basis, act in agreement, make things happen together&#x2026;But we are on a lonely journey, I don't want to see it off-track and away from the right way, all because that's so important to me&#x2026;
+</p></description>
+        </item>
+<item>
+        <title>What Does Not Change is Always Change</title>
+        <link>https://note.jsntn.com/change.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">What Does Not Change is Always Change</h1>
+<blockquote>
+<p>
+小说家死了，他的小说还会有人读；程序员死了，他就被人忘了。99% 的软件，生命周期不超过 5 年，这意味着你现在写的代码，5 年后将毫无用处。如何做一些留得下来的事情，是每个程序员应该认真思考的问题。 —— 阮一峰
+</p>
+</blockquote>
+
+<div class="figure">
+<p><img src="images/language-life.jpg" alt="language-life.jpg"></img>
+</p>
+</div></description>
+        </item>
+<item>
+        <title>It Influenced Me</title>
+        <link>https://note.jsntn.com/it-influenced-me.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">It Influenced Me</h1>
+<p>
+Emacs 整一年，我得说它影响了我，就像东京一年的<a href="https://jsntn.com/essays/2017/01/22/japanese.html">日本人</a>于我一样。
+</p>
+
+<p>
+从痴迷于新的发现，到明白其实完全不缺少新的事物，更重要的是去寻找的眼睛和把握当下的心。
+</p>
+
+<p>
+这让我想到了林清玄说的三个境界：
+</p>
+
+<blockquote>
+<p>
+第一个十年我才华横溢，「贼光闪现」，令周边黯然失色；第二个十年，我终于「宝光现形」，不再去抢风头，反而与身边的美丽相得益彰；进入第三个十年，繁华落尽见真醇，我进入了「醇光初现」的阶段，真正体味到了境界之美。
+</p>
+</blockquote>
+
+<p>
+也是我老了。
+</p></description>
+        </item>
+<item>
+        <title>Building Things</title>
+        <link>https://note.jsntn.com/building-things.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">Building Things</h1>
+<p>
+#MAIL-RECORDED
+</p>
+<blockquote>
+<p>
+SW，收到你的邮件吃惊又替你开心。
+</p>
+
+<p>
+吃惊在已经 10 年了，也惊在我印象中你还是在日本会议室里通宵到 5 点多还激情满满地说“咱们再试一次”的那个少年……😊<br></br>
+开心是因为我相信你一定找到了更好玩的东西，在那里你依然会投入全情，乐在其中，enjoy building things。
+</p>
+
+<p>
+“万物之中，希望至美。”
+</p>
+
+<p>
+祝，一切顺利！
+</p>
+
+<p>
+Cheers,<br></br>
+Jason
+</p>
+</blockquote></description>
+        </item>
+<item>
+        <title>Wake-up Call</title>
+        <link>https://note.jsntn.com/wakeup-call.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">Wake-up Call</h1>
+<p>
+他凑到我耳边，这几年你还好吗？我顺着他落在我肩上的手，穿过金色的耳钉，看到他醉意朦胧的双眼。瞬间回到了多年之前……
+</p>
+
+<p>
+放弃了后裔和虞姬，卸载了王者，可你真的忘得掉那段战斗的时光吗？平和岛，从横滨到蒲田，到品川，到田町，那不远的东京塔……你忘得掉兄弟们不抛弃不放弃，大声告诉你“不要管我们，往前冲”吗？京都的樱花又要开了，我们挥舞宝剑，在樱花树下纵情起舞，剑锋划过，无数樱花纷纷飘落……那四月物语的一个擦肩，和兄弟们的整个春天&#x2026;&#x2026;
+</p>
+
+<p>
+苏醒了，猎杀时刻。
+</p>
+
+<p>
+#扬神又带我飞
+</p></description>
+        </item>
+<item>
+        <title>Blog 14 Years</title>
+        <link>https://note.jsntn.com/blog-14.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">Blog 14 Years</h1>
+<p>
+靡不有初，鲜克有终。
+</p>
+
+<p>
+博客 14 年。
+</p>
+
+<hr></hr>
+
+<p>
+LINKS:
+</p>
+
+<ul class="org-ul">
+<li><a href="https://jsntn.com/archives.html">存档</a>
+</li>
+<li><a href="https://jsntn.com/about.html">关于</a>
+</li>
+<li><a href="https://jsntn.com/essays/2018/04/03/11.html">博客 11 年</a>
+</li>
+</ul></description>
+        </item>
+<item>
+        <title>Coding with Emacs</title>
+        <link>https://note.jsntn.com/coding-with-emacs.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">Coding with Emacs</h1>
+<p>
+这两天用 Emacs coding 的时候，本感觉我发现了一个 Emacs 在递归遍历和自动 hook 方面值得优化的地方，甚至起草好了 request 文档，反复打磨修辞。
+</p>
+
+<p>
+做最后修饰和信息补充时，意外从 reddit 看到了一篇文章，里面详细描述了如何用原生方法实现我需要的功能……
+</p>
+
+<p>
+在认真阅读了几遍并确认我们的理解没有偏差之后，安静地坐在电脑前面，我仿佛看到了 68 岁的 Richard Stallman 在地球的另一边，一只手捋着他的花白胡子，另一只手的大拇指轻轻点算，透过屏幕，微笑道：“年轻人，我都想到了。”
+</p>
+
+<p>
+大佬贡献了极富艺术性的天才设计思想之后，端着咖啡，静静地演进和完善 GNU Emacs，供无数的追捧者使用、把玩、研究和膜拜。
+</p>
+
+<p>
+#年轻人跪得再也起不来
+</p></description>
+        </item>
+<item>
+        <title>Vim in Japan</title>
+        <link>https://note.jsntn.com/vim-in-japan.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">Vim in Japan</h1>
+<p>
+每当我用心爱的 Vim 写 Shell 的时候，就会想起当年和狗哥在日本靠着窗边噼噼啪啪敲键盘的日子，累了一起去打杯咖啡，或者起身看看窗外，舒缓双眼就能延展到横滨上空。狗哥指着远处告诉我，那就是富士山。
+</p>
+
+<p>
+阳光从窗口进入室内，光影打在办公桌上让人感觉非常温暖。
+</p>
+
+<p>
+那时候我还年轻，他还是个孩子。
+</p></description>
+        </item>
+<item>
+        <title>The Japanese</title>
+        <link>https://note.jsntn.com/japanese.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">The Japanese</h1>
+<p>
+项目中因为细节变更涉及到需求和实现的妥协，确定下来之后，收到日本同事这样一封邮件。
+</p>
+
+<p>
+<a href="./images/the-japanese.jpg.gpg">ENCRYPTED IMAGE</a>
+</p>
+
+<p>
+真的很难去形容这种感觉，我竟联想到的是前一段负责从武汉撤侨的日本内阁官员，虽然我们已经没办法知道他到底是因为什么……
+</p>
+
+<p>
+日本人执着流程，忠于责任，并常常因此默默承担压力。
+</p>
+
+<p>
+&gt; <a href="https://jsntn.com/essays/2017/01/22/japanese.html">https://jsntn.com/essays/2017/01/22/japanese.html</a>
+</p>
+
+<p>
+#我眼中的日本人#
+</p></description>
+        </item>
+<item>
+        <title>The Past Two Weeks</title>
+        <link>https://note.jsntn.com/the-past-2-weeks.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">The Past Two Weeks</h1>
+<p>
+总结下过去的两周
+</p>
+
+
+<div class="figure">
+<p><img src="./images/the-past-2-weeks_20200209_022226.jpg" alt="the-past-2-weeks_20200209_022226.jpg"></img>
+</p>
+</div></description>
+        </item>
+<item>
+        <title>The DR 1.0</title>
+        <link>https://note.jsntn.com/dr-1.0.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">The DR 1.0</h1>
+<p>
+今天发布了第一个正式版的 DR package，我叫它 1.0。
+</p>
+
+<p>
+8 个月，508 条 commits，都在其中。
+</p>
+
+<p>
+我努力让它更健壮、逻辑更简洁、响应更清晰、交互更人性化，甚至在执行等待时加入了进度显示，多希望使用的人会说，哟！这比之前的版本好用了一些了呢。
+</p>
+
+<p>
+能完整参与「设计」到「实现」是挑战，更是幸运。
+</p>
+
+<p>
+这段回忆，我愿意重新经历一遍。
+</p>
+
+<p>
+晚安！
+</p>
+
+
+<div class="figure">
+<p><img src="./images/dr-1.0.jpg" alt="dr-1.0.jpg"></img>
+</p>
+</div></description>
+        </item>
+<item>
+        <title>About Encryption</title>
+        <link>https://note.jsntn.com/encryption.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">About Encryption</h1>
+<p>
+用了几周零碎时间看了<a href="https://jsntn.com/books/tua.html">阿桑奇的自传</a>和一些关于密码学和加密解密的材料，记录了一点过程中的实践、想法和收获。
+</p>
+
+<p>
+强化 Evernote 的加密和隐私保护
+</p>
+
+<p>
+&gt; <a href="https://jsntn.com/secure-evernote.html">https://jsntn.com/secure-evernote.html</a>
+</p>
+
+<p>
+Vim 加密解密
+</p>
+
+<p>
+&gt; <a href="https://jsntn.com/go/vim.html">https://jsntn.com/go/vim.html</a>
+</p>
+
+<p>
+把便携软件装进“隐私盒子”
+</p>
+
+<p>
+&gt; <a href="https://haikebang.com/secure-portable.html">https://haikebang.com/secure-portable.html</a>
+</p>
+
+<p>
+「译文」便携版 Cryptomator
+</p>
+
+<p>
+&gt; <a href="https://jsntn.com/software/portable-cryptomator.html">https://jsntn.com/software/portable-cryptomator.html</a>
+</p>
+
+<p>
+关于「密码」的一些建议
+</p>
+
+<p>
+&gt; <a href="https://haikebang.com/passphrase.html">https://haikebang.com/passphrase.html</a>
+</p></description>
+        </item>
+<item>
+        <title>About Refactoring</title>
+        <link>https://note.jsntn.com/refactoring.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">About Refactoring</h1>
+<p>
+测试失败了 :(，突然产生了个想法是想把代码重构一遍，在单元测试都干完一多半的情况下，这个想法把我自己吓到了……
+</p>
+
+<p>
+#我要把这件事记下来如果明天还有这想法我就要开始干了#
+</p></description>
+        </item>
+<item>
+        <title>Bye! Buddies.</title>
+        <link>https://note.jsntn.com/bye-buddies.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">Bye! Buddies.</h1>
+<p>
+#MAIL-RECORDED
+</p>
+
+<p>
+拜拜！伙伴们。
+</p>
+
+<p>
+转眼 9 个月就过去了，过得充实又开心。把期间的照片翻了一遍，不敢相信过得这么快，事实是 9 个月时间的相处真不算短。我会想念每一位小伙伴的。
+</p>
+
+<p>
+少年有自己的想法，心思细密；尼克兄善于倾听有见地，懂得照顾心理；盖老师思维清晰，有坚持有性格；我眼中的 done 桑质直而好义。
+</p>
+
+<p>
+离开不是永远，一切难说再见。
+</p>
+
+<p>
+对了，开心最重要，心情不好时，去超市捏捏方便面。
+</p>
+
+<p>
+此致
+</p></description>
+        </item>
+<item>
+        <title>Time Flies</title>
+        <link>https://note.jsntn.com/time-flies.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">Time Flies</h1>
+<p>
+我感觉我还没准备好迎新年春节长假就过去了这事儿太诡异了就好像我在 1 月 1 号写了篇博文总结了下嗖的一下就过去了的 2018 年一样感觉眨眨眼一个半月又特么没了所以我觉得我得赶紧抓住长假的尾巴许个新年愿望啥的今年我们准备把安卓果酱干进全球 50 万我已经等不了了我把话先撂这儿明年今天如果我没忘的话会再截个图整个对比如果一旦没实现的话这话就当我没说然后如果有时间的话争取搞个 Android App 出来到苹果 App Store 上个架不赚钱就想混个排场听说瞄准月亮就能把老鹰嘣下来目标要远大到几乎不可能所以我觉得我这个目标订得相当牛逼还有就是我想要个武则天最好能带个皮肤东方不败或者海洋之心都行最后就是我希望百姓安居乐业世界和平祖国繁荣昌盛和谐统一各民族紧密团结为实现中华民族的伟大复兴共同努力
+</p></description>
+        </item>
+<item>
+        <title>Cryptomator Server</title>
+        <link>https://note.jsntn.com/cryptomator-server.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">Cryptomator Server</h1>
+<p>
+#日常吹牛逼
+</p>
+
+<p>
+Cryptomator 从发布出来我就一直很关注，并且在「安卓果酱」上写过文章推荐它。
+</p>
+
+<p>
+上周看到它要出 Cryptomator Server 了，我就发了封邮件，说了下我对 Cryptomator 的想法，然后对方回复我说要和我远程聊一下，结果今晚我就和两个德国人在线扯到现在……
+</p>
+
+<p>
+两个年轻人如此真诚，我就点拨了两点：一是用 Docker；二是要支持 Dropbox 等网盘。
+</p>
+
+<p>
+他俩说 10 天左右会发布出来一个新版本到时候发给我。
+</p>
+
+<p>
+我现在觉得我已经牛 x 到德国了。
+</p>
+
+<p>
+最后推一下 Cryptomator：
+</p>
+
+<p>
+&gt; <a href="https://cn.apkjam.com/cryptomator.html">https://cn.apkjam.com/cryptomator.html</a>
+</p>
+
+<p>
+好了，我要去跑步了。
+</p></description>
+        </item>
+<item>
+        <title>The First Day in Yokohama</title>
+        <link>https://note.jsntn.com/1st-day-in-yokohama.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">The First Day in Yokohama</h1>
+<p>
+2017 年 6 月 14 日，横滨，晴
+</p>
+
+<p>
+日本上班第一天，早上出门下雨。
+</p>
+
+<p>
+我今天用了 3 个多小时去公司每个楼层转了一圈，见了些正经的和不正经的同事。去 9 楼办了张黑卡，去 4 楼交易了点烟草，去 10 楼送了批药物，最后回去写了个小软件，然后就下班了。
+</p>
+
+<p>
+天晴了，太阳都晃眼睛。
+</p></description>
+        </item>
+<item>
+        <title>Austria</title>
+        <link>https://note.jsntn.com/austria.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">Austria</h1>
+<pre class="example">
+-----BEGIN PGP MESSAGE-----
+
+hQIMA98Fje+r/tGHAQ//WmNI5n3tIGr89LWa3ETSkIWZvdVplQ1LoeqfMn7Sso0k
+2SCz+tMZEc4IKACnsSoxtCl7bXY3RJwu8wVEPVV2uVrwZ874WzPbIliXpmywVnv5
+htB/ZX5X9m+/+XuyIEmCgjNYv96jumk51c1k6jFcagLfrwB+GyhpBnfaBgRbFGOl
+Bcrg4ZTWFWYFXKlQhwU5mjTucEZv4uo/C3/kHMo7uWFouANjEfPQq/v++nuVo6VT
+sr4/nfmg61364L1a/O70iQyEfUxpTS5KG0i61TgVCtvu7oZPLoUNbn7cEEt9g8ox
+NT2pmKYXRAc2XHMsr31/NTISyv0mfSzvsLzsWTH50gaVplYcvC+v/39O+Xe8TYJK
+WGCL2spUSY36HKNmsu0NdlA9UVDKHv471yTbI3GviSOzcFSUtizu1h3vyFTKJ6dN
+HQaVYGWnDmRNP+t6o7KEOu/7wIOTmRmhDU8BZQGmZTy5qleMkkW3AifXsSdb8CNo
+DR8c4s6rfqmpudugFGRnr17dwtn7lQy8pKux2IPA9sggu/ZCbVgNurQbn3TRWkrF
+Viym5GtqVT8ddnUHKOZleIF1PwzB4pcM2PQPbzMa+MqIRErJY2OzIcrgXOsqnxqm
+H/nhMOkqh9J/NYFE1NfMH05IO8mHPQ+qIQC/webX45QAGvIqT3p/d9DnKUWR7bTS
+wIgB0Lqx5GCayBm16AlZTiZh8AhIswAWbyrNLONZEJuX5zmrHh+HEQp2oia73O7W
+ryiI+PgE8rWFbLZ7oLLPp7mxWvnPdf0TYuyJlvKKfTP2vhXDCP9TzB1A7eqZ0xC+
+tvy2zyNUOuazMsZ4ir9qQ3Q1nSzYnErEFZ1mU7I+NH8hPLteeXO9Gp074kleIoG3
+EbQGd2ZhlPtVx2zeSnmGlV7AHTfKz80Zkrnqj8gqB7DzFwwd0DEaa4mX3/Jm3b9r
+UntXpqDsvFThod2dsS/bOBRJpb1+CWVYFwwYYjWsC/QWY091wNgkz1wBKdJyoDPb
+MxcXrMN2RH2ETPzlbZknMVwoeSgLxKqxbCI8MIKcOGAm37FQu57UnuqOrjJzvAWD
+gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
+=q7/i
+-----END PGP MESSAGE-----
+</pre></description>
+        </item>
+<item>
+        <title>He Just Resigned</title>
+        <link>https://note.jsntn.com/resigned.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">He Just Resigned</h1>
+<p>
+刚看到邮件以前的经理离职了。
+</p>
+
+<p>
+听说职场上的离职有两种情况：一种是在所工作的环境中实在呆不下去了，不得不选择离职来摆脱；另一种是在所工作的环境中已经得不到更多的发展和成长条件，甚至看得到若干年后的自己。除了这两种情况之外，倘若还有第三个原因，都不是正确的选择。
+</p>
+
+<p>
+第一种是谁都不愿遇到的，第二种情况下，当事人往往有主观认为的更好的选择，即使是选择去开一家小小的店，追求简简单单、随性自由的生活。
+</p></description>
+        </item>
+<item>
+        <title>Me and This City</title>
+        <link>https://note.jsntn.com/me-and-this-city.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">Me and This City</h1>
+<blockquote>
+<p>
+這座城市，有快有慢，有恨有愛，無論是喜或悲，住在這裡的故事還是會每天發生著。沒有固定的主角，也沒有永遠的配角，就連終身成就獎也有好幾年無人問津。有人想逃離，亦有人想逗留。來來去去，最後帶得走的叫靈魂，帶不走的叫曾經。
+</p>
+
+<p>
+时间已经带走了许多，包括熟悉、人情冷暖。不知道时间除了层层叠叠的痛、断断续续的裂痕，又带给我了冷漠，还是改变？人是不是总在经历很多之后变得圆滑？在拥有很多后，便忘了自己单纯的梦想与执着？
+</p>
+
+<p>
+—— ICE
+</p>
+</blockquote></description>
+        </item>
+<item>
+        <title>Torre di Pisa</title>
+        <link>https://note.jsntn.com/torre-di-pisa.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">Torre di Pisa</h1>
+<p>
+我相信 N 年前就有号称中国的 MJ 的艺人，但如今 MJ 人都不在了，也没出现真正的中国的 MJ，这世界上不是什么都需要一份中国版，就好像比萨斜塔，比萨可以留下，塔还是算了。(<a href="https://twitter.com/ifire/status/4703343798">via</a>)
+</p></description>
+        </item>
+<item>
+        <title>THE HOME</title>
+        <link>https://note.jsntn.com/the-home.html</link>
+        <guid></guid>
+        <description>
+<h1 class="title">THE HOME</h1>
+<pre class="example">
+-----BEGIN PGP MESSAGE-----
+
+hQIMA98Fje+r/tGHARAAmwgxO89/ng8QbYnKY9PSYwgaDeQBVooV7Ugojc27/G4B
+LyVCPumT5Bj7mKR6Pal6MnKckI6Y8W2nhk86E+saXB5ds2SprRBgNQN0dfhs8pfn
+GEE7inH9KKHzNZCkYJLZ4dWgBykiGwVwhbLtZ6k2KCgc3qLwxMjU0wsJ7xrCOL5P
+xovc+7rwLBE/hdCXXeCceZS+XWtp/B37HbrJJ0ys8dn9NiHQ4I0YbExPqznyoFtA
+/Ja3NWp5gHoRbB0P1K+Df63ZZNPJZLVSFhlQlAFQZ6MwTZ4eBxUBnn9/Xrn/CYDR
+f0pmocHWM/uvAnPbO/Wu20UsQpbaxXpOGHRqBfNJ0Sn6W0ZVxyEeR3Iulv4DQx4R
+/AZ/zxy12gefikYJdmVqRWEOtiC75ZL3XBdUW/rvLIkesQT/C9icAfOUAzroPnXx
+7EBLwHmUBzjJuYxJLp4X0G5ITBOIQ+6S+5nYNhOcvw6VSpyqzg9ePna65SKbl//j
+bpj+7teAifAOrZaDcVcBiXrM0DH+p2EK7QCLODbD7GtdqKoXmko6vm4Awz+68kLF
+lzY+WeMuEEvKDLMN2SeIpHb/yhnuoswc5vc5sCqfSm1QRQScJGTNJHWYvch72NSD
+L1++k61s34VzJp6Adto1oGg4kbfz/jqrQHupuRubg/eKS9ESm3HqaTS+zsHjrH3S
+wBEBi1stNRtGFioq+pqRz/z3GDxWHT50VVuZZXflexPSLXC1P12E7iWRjF86BOTT
+aJUcyPuJY74J5dyFNIbd4k1NL3flZOqgbXkYJKDVVF7aX9h7tPxeg3+2MTdvik4f
+0esyQkm6CWc//6JtL1hnZgqWCMwh7sxrC6/KsHdIs5CYvsj6JFCQ5/TD0chZWels
+ui3HnmOg9fCtbvg+i4DX15M5rtNaeW9klxpucXDj8mIG95aVuShit7+bMG3KdrgI
+JL83vmL9S4qv3CbJs1VpSCB1Bw==
+=Yzui
+-----END PGP MESSAGE-----
+</pre></description>
+        </item>
+</channel>
+</rss>
