@@ -77,11 +77,11 @@ getContent () {
     hxselect -c $contentSelector <$1
 }
 
-if [[ ! -f .rss-roller.rc ]]; then
+if [[ ! -f ./scripts/.rss-roller.rc ]]; then
         makeRSS
 fi
 
-source .rss-roller.rc
+source ./scripts/.rss-roller.rc
 
 if [[ ! -f $feedname ]]; then
         touch $feedname

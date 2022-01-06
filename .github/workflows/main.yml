@@ -25,7 +25,7 @@ jobs:
        emacs --batch -Q --load scripts/config.el -f org-publish-all --kill
     - name: generate rss
       run: |
-       bash ./scripts/rss-roller --auto
+       pwd && ls -l && bash ./scripts/rss-roller --auto
     - name: deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
