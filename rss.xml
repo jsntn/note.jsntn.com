@@ -2,7 +2,7 @@
 <rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
 <!-- Made using rss-roller https://github.com/maxhebditch/rss-roller -->
 <channel>
-<title><hi@jsntn.com> Notes</title>
+<title>Jasons Notes</title>
 <link>https://note.jsntn.com</link>
 <description>Some notes from Jason Tian</description>
 <atom:link href='https://note.jsntn.com/rss.xml' rel='self' type='application/rss+xml' />
