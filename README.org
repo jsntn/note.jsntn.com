@@ -1,0 +1,8 @@
+* About here
+Just a site with some of my notes.
+* The site URL
+https://note.jsntn.com
+* RSS
+The RSS feed is generated with [[//github.com/jsntn/note.jsntn.com/blob/master/scripts/rss-roller][Shell script]], which is modified on top of [[//github.com/maxhebditch/rss-roller][@maxhebditch's rss-roller]].
+* Read more
+- [[//github.com/jsntn/rss-roller/tree/develop][My version of rss-roller]]
