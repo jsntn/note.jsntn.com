@@ -11,6 +11,9 @@ jobs:
       with:
        version: 24.5
     - uses: actions/checkout@v2
+    - name: install html-xml-utils
+      run: |
+       sudo apt-get update && sudo apt-get install html-xml-utils
     - name: check version
       run: |
        emacs --version
@@ -20,6 +23,9 @@ jobs:
     - name: emacs processing
       run: |
        emacs --batch -Q --load scripts/config.el -f org-publish-all --kill
+    - name: generate rss
+      run: |
+       bash ./scripts/rss-roller --auto
     - name: deploy
       uses: peaceiris/actions-gh-pages@v3
       with:

@@ -1,0 +1,10 @@
+title='<hi@jsntn.com> Notes'
+link=https://note.jsntn.com
+description='Some notes from Jason Tian'
+rsslink=https://note.jsntn.com/rss.xml
+feedname=./html/rss.xml
+postDir=./html/
+ignoredPosts=(index.html sitemap.html)
+titleSelector='.title'
+timestampSelector='.timestamp'
+contentSelector='#content'
