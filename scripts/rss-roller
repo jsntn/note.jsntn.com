@@ -75,8 +75,8 @@ getTimestamp () {
 }
 
 pubDate () {
-    temp=hxselect -c $timestampSelector < $1
-    date=grep -o '[[:digit:]]\{4\}-[[:digit:]]\{2\}-[[:digit:]]\{2\} [[:alpha:]]\{3\} [[:digit:]]\{2\}:[[:digit:]]\{2\}' <<< $temp
+    temp=$(hxselect -c $timestampSelector < $1)
+    date=$(grep -o '[[:digit:]]\{4\}-[[:digit:]]\{2\}-[[:digit:]]\{2\} [[:alpha:]]\{3\} [[:digit:]]\{2\}:[[:digit:]]\{2\}' <<< $temp)
     date --date=$date --rfc-2822
 }
 
