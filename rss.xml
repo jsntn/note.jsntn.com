@@ -10,7 +10,7 @@
         <title>Mr Kay</title>
         <link>https://note.jsntn.com/mr-kay.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">Mr Kay</h1>
 <pre class="example">
 -----BEGIN PGP MESSAGE-----
@@ -48,7 +48,7 @@ sgMn++VrRO3CWSV1XshtAy+REQzlKNE4++bOJ/jnW+YDKfg8njyWzzXAhnfQKZJq
         <title>The Excellent Employee</title>
         <link>https://note.jsntn.com/tee.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">The Excellent Employee</h1>
 <pre class="example">
 -----BEGIN PGP MESSAGE-----
@@ -84,7 +84,7 @@ IsGhK0Zr94x0fPZCFHXESNGg
         <title>DR Startup</title>
         <link>https://note.jsntn.com/dr-startup.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">DR Startup</h1>
 <pre class="example">
 -----BEGIN PGP MESSAGE-----
@@ -123,7 +123,7 @@ USspcKcbuScWE1F1gTGIL68wD9pYX65z
         <title>一个人的书房 2.0</title>
         <link>https://note.jsntn.com/shufang-2.0.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">一个人的书房 2.0</h1>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
@@ -237,7 +237,7 @@ USspcKcbuScWE1F1gTGIL68wD9pYX65z
         <title>🔞 Kimono</title>
         <link>https://note.jsntn.com/kimono.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">🔞 Kimono</h1>
 <pre class="example">
 -----BEGIN PGP MESSAGE-----
@@ -272,7 +272,7 @@ Link: <a href="https://jsntn.com/books/old.html">https://jsntn.com/books/old.htm
         <title>The Past Year</title>
         <link>https://note.jsntn.com/the-past-year.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">The Past Year</h1>
 
 <div class="figure">
@@ -284,7 +284,7 @@ Link: <a href="https://jsntn.com/books/old.html">https://jsntn.com/books/old.htm
         <title>读《活着活着就老了》</title>
         <link>https://note.jsntn.com/read-fengtang.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">读《活着活着就老了》</h1>
 <p>
 我就不解释在我 Kindle 用得越来越少的情况下为什么几乎不再买中文电子书了。
@@ -308,7 +308,7 @@ Link: <a href="https://jsntn.com/books/old.html">https://jsntn.com/books/old.htm
         <title>PYIM</title>
         <link>https://note.jsntn.com/pyim.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">PYIM</h1>
 <p>
 我开始使用 <a href="https://github.com/tumashu/pyim">pyim</a> 了！在中英文结合的工作环境下，应用了探针之后，那种体验直叫人想大声痛哭，一边抹着眼泪一边疯狂地敲击键盘，大声感叹——太牛 x 了！太 xx 好用了！我为什么不早点开始用这个！我那大好的青春年华……
@@ -318,7 +318,7 @@ Link: <a href="https://jsntn.com/books/old.html">https://jsntn.com/books/old.htm
         <title>haikebang.org</title>
         <link>https://note.jsntn.com/haikebang.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">haikebang.org</h1>
 <blockquote>
 <p>
@@ -348,7 +348,7 @@ Link: <a href="https://jsntn.com/books/old.html">https://jsntn.com/books/old.htm
         <title>Schizophrenia</title>
         <link>https://note.jsntn.com/schizophrenia.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">Schizophrenia</h1>
 <pre class="example">
 -----BEGIN PGP MESSAGE-----
@@ -380,7 +380,7 @@ xHjvgSCACYIjqP6QBr9lrqtZILoBhqy63sVCxlqAKXeqMqF8hTcTSD8Si/uaWd0=
         <title>The Deployment</title>
         <link>https://note.jsntn.com/deployment.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">The Deployment</h1>
 <p>
 <a href="deployment.wav">deployment.wav</a>
@@ -390,7 +390,7 @@ xHjvgSCACYIjqP6QBr9lrqtZILoBhqy63sVCxlqAKXeqMqF8hTcTSD8Si/uaWd0=
         <title>A Journey</title>
         <link>https://note.jsntn.com/a-journey.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">A Journey</h1>
 <p>
 We never thought about giving up. We stood up for what the real value is. we fought for the right reason but without asking for payoff. We passed the brambles, the toughest time - for the right thing. We worked for the efficiency improvement, little by little, again and again, never compromise, never ever. We sacrificed, we cared about the end users, as we always believe - we are contributing ideas, we are building good things, and we can talk on same basis, act in agreement, make things happen together&#x2026;But we are on a lonely journey, I don't want to see it off-track and away from the right way, all because that's so important to me&#x2026;
@@ -400,7 +400,7 @@ We never thought about giving up. We stood up for what the real value is. we fou
         <title>What Does Not Change is Always Change</title>
         <link>https://note.jsntn.com/change.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">What Does Not Change is Always Change</h1>
 <blockquote>
 <p>
@@ -417,7 +417,7 @@ We never thought about giving up. We stood up for what the real value is. we fou
         <title>It Influenced Me</title>
         <link>https://note.jsntn.com/it-influenced-me.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">It Influenced Me</h1>
 <p>
 Emacs 整一年，我得说它影响了我，就像东京一年的<a href="https://jsntn.com/essays/2017/01/22/japanese.html">日本人</a>于我一样。
@@ -445,7 +445,7 @@ Emacs 整一年，我得说它影响了我，就像东京一年的<a href="https
         <title>Building Things</title>
         <link>https://note.jsntn.com/building-things.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">Building Things</h1>
 <p>
 #MAIL-RECORDED
@@ -478,7 +478,7 @@ Jason
         <title>Wake-up Call</title>
         <link>https://note.jsntn.com/wakeup-call.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">Wake-up Call</h1>
 <p>
 他凑到我耳边，这几年你还好吗？我顺着他落在我肩上的手，穿过金色的耳钉，看到他醉意朦胧的双眼。瞬间回到了多年之前……
@@ -500,7 +500,7 @@ Jason
         <title>Blog 14 Years</title>
         <link>https://note.jsntn.com/blog-14.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">Blog 14 Years</h1>
 <p>
 靡不有初，鲜克有终。
@@ -529,7 +529,7 @@ LINKS:
         <title>Coding with Emacs</title>
         <link>https://note.jsntn.com/coding-with-emacs.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">Coding with Emacs</h1>
 <p>
 这两天用 Emacs coding 的时候，本感觉我发现了一个 Emacs 在递归遍历和自动 hook 方面值得优化的地方，甚至起草好了 request 文档，反复打磨修辞。
@@ -555,7 +555,7 @@ LINKS:
         <title>Vim in Japan</title>
         <link>https://note.jsntn.com/vim-in-japan.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">Vim in Japan</h1>
 <p>
 每当我用心爱的 Vim 写 Shell 的时候，就会想起当年和狗哥在日本靠着窗边噼噼啪啪敲键盘的日子，累了一起去打杯咖啡，或者起身看看窗外，舒缓双眼就能延展到横滨上空。狗哥指着远处告诉我，那就是富士山。
@@ -573,7 +573,7 @@ LINKS:
         <title>The Japanese</title>
         <link>https://note.jsntn.com/japanese.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">The Japanese</h1>
 <p>
 项目中因为细节变更涉及到需求和实现的妥协，确定下来之后，收到日本同事这样一封邮件。
@@ -603,7 +603,7 @@ LINKS:
         <title>The Past Two Weeks</title>
         <link>https://note.jsntn.com/the-past-2-weeks.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">The Past Two Weeks</h1>
 <p>
 总结下过去的两周
@@ -619,7 +619,7 @@ LINKS:
         <title>The DR 1.0</title>
         <link>https://note.jsntn.com/dr-1.0.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">The DR 1.0</h1>
 <p>
 今天发布了第一个正式版的 DR package，我叫它 1.0。
@@ -655,7 +655,7 @@ LINKS:
         <title>About Encryption</title>
         <link>https://note.jsntn.com/encryption.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">About Encryption</h1>
 <p>
 用了几周零碎时间看了<a href="https://jsntn.com/books/tua.html">阿桑奇的自传</a>和一些关于密码学和加密解密的材料，记录了一点过程中的实践、想法和收获。
@@ -705,7 +705,7 @@ Vim 加密解密
         <title>About Refactoring</title>
         <link>https://note.jsntn.com/refactoring.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">About Refactoring</h1>
 <p>
 测试失败了 :(，突然产生了个想法是想把代码重构一遍，在单元测试都干完一多半的情况下，这个想法把我自己吓到了……
@@ -719,7 +719,7 @@ Vim 加密解密
         <title>Bye! Buddies.</title>
         <link>https://note.jsntn.com/bye-buddies.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">Bye! Buddies.</h1>
 <p>
 #MAIL-RECORDED
@@ -753,7 +753,7 @@ Vim 加密解密
         <title>Time Flies</title>
         <link>https://note.jsntn.com/time-flies.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">Time Flies</h1>
 <p>
 我感觉我还没准备好迎新年春节长假就过去了这事儿太诡异了就好像我在 1 月 1 号写了篇博文总结了下嗖的一下就过去了的 2018 年一样感觉眨眨眼一个半月又特么没了所以我觉得我得赶紧抓住长假的尾巴许个新年愿望啥的今年我们准备把安卓果酱干进全球 50 万我已经等不了了我把话先撂这儿明年今天如果我没忘的话会再截个图整个对比如果一旦没实现的话这话就当我没说然后如果有时间的话争取搞个 Android App 出来到苹果 App Store 上个架不赚钱就想混个排场听说瞄准月亮就能把老鹰嘣下来目标要远大到几乎不可能所以我觉得我这个目标订得相当牛逼还有就是我想要个武则天最好能带个皮肤东方不败或者海洋之心都行最后就是我希望百姓安居乐业世界和平祖国繁荣昌盛和谐统一各民族紧密团结为实现中华民族的伟大复兴共同努力
@@ -763,7 +763,7 @@ Vim 加密解密
         <title>Cryptomator Server</title>
         <link>https://note.jsntn.com/cryptomator-server.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">Cryptomator Server</h1>
 <p>
 #日常吹牛逼
@@ -805,7 +805,7 @@ Cryptomator 从发布出来我就一直很关注，并且在「安卓果酱」�
         <title>The First Day in Yokohama</title>
         <link>https://note.jsntn.com/1st-day-in-yokohama.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">The First Day in Yokohama</h1>
 <p>
 2017 年 6 月 14 日，横滨，晴
@@ -827,7 +827,7 @@ Cryptomator 从发布出来我就一直很关注，并且在「安卓果酱」�
         <title>Austria</title>
         <link>https://note.jsntn.com/austria.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">Austria</h1>
 <pre class="example">
 -----BEGIN PGP MESSAGE-----
@@ -858,7 +858,7 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
         <title>He Just Resigned</title>
         <link>https://note.jsntn.com/resigned.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">He Just Resigned</h1>
 <p>
 刚看到邮件以前的经理离职了。
@@ -876,7 +876,7 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
         <title>Me and This City</title>
         <link>https://note.jsntn.com/me-and-this-city.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">Me and This City</h1>
 <blockquote>
 <p>
@@ -896,7 +896,7 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
         <title>Torre di Pisa</title>
         <link>https://note.jsntn.com/torre-di-pisa.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">Torre di Pisa</h1>
 <p>
 我相信 N 年前就有号称中国的 MJ 的艺人，但如今 MJ 人都不在了，也没出现真正的中国的 MJ，这世界上不是什么都需要一份中国版，就好像比萨斜塔，比萨可以留下，塔还是算了。(<a href="https://twitter.com/ifire/status/4703343798">via</a>)
@@ -906,7 +906,7 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
         <title>THE HOME</title>
         <link>https://note.jsntn.com/the-home.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">THE HOME</h1>
 <pre class="example">
 -----BEGIN PGP MESSAGE-----
@@ -935,7 +935,7 @@ JL83vmL9S4qv3CbJs1VpSCB1Bw==
         <title>README</title>
         <link>https://note.jsntn.com/README.html</link>
         <guid></guid>
-        <description type=html><![CDATA[
+        <description><![CDATA[
 <h1 class="title">README</h1>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
