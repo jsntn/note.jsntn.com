@@ -74,7 +74,7 @@ getTimestamp () {
 }
 
 getContent () {
-    hxselect -c $contentSelector <$1
+    hxselect -c $contentSelector <$1 | hxremove $titleSelector
 }
 
 if [[ ! -f ./scripts/.rss-roller.rc ]]; then
