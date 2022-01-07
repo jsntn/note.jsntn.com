@@ -24,14 +24,14 @@ if [[ $mode == "a" ]]; then
         <title>$fullTitle</title>
         <link>$linkadd</link>
         <guid>$guid</guid>
-        <description>$extract</description>
-        </item>""" >> ~/feed
+        <description type="html"><![CDATA[$extract]]></description>
+	</item>""" >> ~/feed
 elif [[ $mode == "m" ]]; then
         echo """<item>
         <title>$fullTitle</title>
         <link>$linkadd</link>
         <guid isPermaLink='false'>$guidadd</guid>
-        <description>$extract</description>
+        <description type="html"><![CDATA[$extract]]></description>
         </item>""" >> ~/feed
 fi
 }
