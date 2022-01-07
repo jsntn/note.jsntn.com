@@ -6,5 +6,5 @@ feedname=./html/rss.xml
 postDir=./html/
 ignoredPosts=(index.html sitemap.html README.html)
 titleSelector='.title'
-timestampSelector='.timestamp'
+timestampSelector='#postamble .timestamp'
 contentSelector='#content'
