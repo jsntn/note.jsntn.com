@@ -9,6 +9,7 @@
 - [[./pyim.org][pyim]]
 - [[./shufang-2.0.org][一个人的书房 2.0]]
 - [[file:haikebang.org][haikebang.org]]
+- [[./emacs-rocks.org][Emacs Rocks!]]
 - [[./schizophrenia.org][Schizophrenia]]
 - [[file:deployment.org][The Deployment]]
 - [[file:a-journey.org][A Journey]]
