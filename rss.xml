@@ -354,6 +354,48 @@ Link: <a href="https://jsntn.com/books/old.html">https://jsntn.com/books/old.htm
 </p>]]></description>
 	</item>
 <item>
+        <title>Emacs Rocks!</title>
+        <link>https://note.jsntn.com/emacs-rocks.html</link>
+        <guid></guid>
+        <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+
+<p>
+我说件事，我今天又一次因为 Emacs 的效率和设计震撼到了！
+</p>
+
+<p>
+我就在想我更早就学了 Emacs 该有多好，然后我就陷入了思考-&#x2014;到底什么是一个好的编辑器设计？
+</p>
+
+<p>
+一定不是花里胡哨的界面，因为 Emacs 的初始界面土的掉渣了，它的配置程序复杂的吓人，快捷键反人类，但是一旦完成了这些再愿意付出数月时间实践之后，它的效率会让你兴奋地忘记时间！等你反应过来了，半年也就这么过去了！
+</p>
+
+<p>
+之后你会开始研究，什么插件呀，语法高亮呀，拼写检查呀，能给它开的都给它开着，就图两个字儿-&#x2014;沉浸。
+</p>
+
+<p>
+整几行介绍出来，进程序就给他 print 出来，甭管你学没学过，默认第一句话就是：Press to enter the tutorial.
+</p>
+
+<p>
+好的东西你得分享出来！琢磨着弄几个 workshop，教材一码 GNU 的，高端！慢慢周围哥几个不是用 Vim 就是 Emacs，你要用一 UltraEdit，你都不好意思跟人家打招呼。
+</p>
+
+<p>
+你就说这么 NB 一东西，学会得用多长时间？
+</p>
+
+<p>
+-&#x2014;我觉着怎么也得小半年儿吧。
+</p>
+
+<p>
+-&#x2014;半年？入门都远着呢，能学会移动光标就不错了。你还别说耗不起，就不给你 GUI。你得研究极客的学习心理，汇编都学出来的人根本就不在乎学编辑器这点时间。</p>]]></description>
+	</item>
+<item>
         <title>Schizophrenia</title>
         <link>https://note.jsntn.com/schizophrenia.html</link>
         <guid></guid>
