@@ -1,4 +1,7 @@
 #+TITLE: <hi@jsntn.com> Notes
+* 2022
+- [[./learning-curve.org][学习曲线]]
+- [[./steady.org][稳]]
 * 2021
 - [[./mr-kay.org][Mr Kay]]
 - [[./tee.org][The Excellent Employee]]
