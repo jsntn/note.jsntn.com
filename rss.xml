@@ -13,8 +13,13 @@
         <pubDate>Fri, 11 Mar 2022 17:27:00 +0000</pubDate>
         <description><![CDATA[
 
+
+<div class="figure">
+<p><img src="./images/learning-curve.png" alt="learning-curve.png"/>
+</p>
+</div>
+
 <p>
-<img src="./images/learning-curve.png" alt="learning-curve.png"/>
 我想分享张图就是关于 Vim 和 Emacs 的学习曲线，是因为前天我的一个伙伴跟我说他安装了 Emacs，我当时就想到了这个图。
 </p>
 
