@@ -601,6 +601,24 @@ Jason
 </p>]]></description>
 	</item>
 <item>
+        <title>The Pipeline Debug</title>
+        <link>https://note.jsntn.com/shufang-pipeline-debug.html</link>
+        <guid></guid>
+        <pubDate>Sat, 03 Apr 2021 00:24:00 +0000</pubDate>
+        <description><![CDATA[
+
+<p>
+我数了下我今天调「一个人的书房」的代码时 Pipeline 失败了 27 次 🐶 最终就在刚刚躺下后突然想起来打开了 debug 然后就快速定位到了问题并且搞定了，明天 merge 过去。
+</p>
+
+<p>
+这件事给我的教训就是不要过于相信自己对问题的理解，要不然还要 debug 干什么。
+</p>
+
+<p>
+#我得把这件事记下来不然我就忘了# ​​​</p>]]></description>
+	</item>
+<item>
         <title>Blog 14 Years</title>
         <link>https://note.jsntn.com/blog-14.html</link>
         <guid></guid>
@@ -656,6 +674,20 @@ LINKS:
 <p>
 #年轻人跪得再也起不来
 </p>]]></description>
+	</item>
+<item>
+        <title>iOS foobar2000 导入音乐</title>
+        <link>https://note.jsntn.com/ios-foobar2000-folder.html</link>
+        <guid></guid>
+        <pubDate>Wed, 13 Jan 2021 00:05:00 +0000</pubDate>
+        <description><![CDATA[
+
+<p>
+我可真是个人才，在几乎试遍了网友推荐的各种离线音乐播放器之后，我实在不死心鼎鼎大名的开源 foobar2000 怎么就可能没有一个通过手机直接导入音乐的方法，这不，终于被我给找到了！鼓掌👏吧各位。
+</p>
+
+<p>
+<a href="https://haikebang.com/ios-music-player.html">https://haikebang.com/ios-music-player.html</a></p>]]></description>
 	</item>
 <item>
         <title>Vim in Japan</title>
