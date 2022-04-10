@@ -1,5 +1,6 @@
 #+TITLE: <hi@jsntn.com> Notes
 * 2022
+- [[./yide.org][益德]]
 - [[./shufang-pipeline-debug.org][The Pipeline Debug]]
 - [[./ios-foobar2000-folder.org][iOS foobar2000 导入音乐]]
 - [[./learning-curve.org][学习曲线]]
