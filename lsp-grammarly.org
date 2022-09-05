@@ -6,4 +6,4 @@
 
 [2022-09-02 Fri 22:48] 我把 refile target 的 maxlevel 从 9 改为了 4，观察一段时间看看，当然我也觉得这不是真正的解决问题的办法。[doge]
 
-我今天发现 lsp-grammarly 有点问题，似乎和 projectile 有点关系，然后 refile targets cache 也卡住了……太棒了！
+[2022-09-02 Fri 19:01] 我今天发现 lsp-grammarly 有点问题，似乎和 projectile 有点关系，然后 refile targets cache 也卡住了……太棒了！

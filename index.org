@@ -1,6 +1,7 @@
 #+TITLE: <hi@jsntn.com> Notes
 * 2022
-- [[./lsp-grammarly.org][问题是好的]]
+- IN-PROGRESS [[./books-management.org][图书管理应用]]
+- IN-PROGRESS [[./lsp-grammarly.org][问题是好的]]
 - [[./resisting.org][要定得住]]
 - [[./yide.org][益德]]
 - [[./shufang-pipeline-debug.org][The Pipeline Debug]]
