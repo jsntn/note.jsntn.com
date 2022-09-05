@@ -1,0 +1,9 @@
+#+TITLE: 问题是好的
+#+DATE: <2022-09-02 Fri 19:01>
+[2022-09-03 Sat 12:45] 几个关于 refile cache 的待研究的参考文档
+- https://web.archive.org/web/20220829071422/https://yiming.dev/blog/2018/03/02/my-org-refile-workflow/
+- https://git.entf.net/dotemacs/file/elpa/org-9.5/org-refile.el.html
+
+[2022-09-02 Fri 22:48] 我把 refile target 的 maxlevel 从 9 改为了 4，观察一段时间看看，当然我也觉得这不是真正的解决问题的办法。[doge]
+
+我今天发现 lsp-grammarly 有点问题，似乎和 projectile 有点关系，然后 refile targets cache 也卡住了……太棒了！
