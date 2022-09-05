@@ -7,6 +7,31 @@
 <description>Some notes from Jason Tian</description>
 <atom:link href='https://note.jsntn.com/rss.xml' rel='self' type='application/rss+xml' />
 <item>
+        <title>问题是好的</title>
+        <link>https://note.jsntn.com/lsp-grammarly.html</link>
+        <guid></guid>
+        <pubDate>Fri, 02 Sep 2022 19:01:00 +0000</pubDate>
+        <description><![CDATA[
+
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">[2022-09-03 Sat 12:45]</span></span> 几个关于 refile cache 的待研究的参考文档
+</p>
+<ul class="org-ul">
+<li><a href="https://web.archive.org/web/20220829071422/https://yiming.dev/blog/2018/03/02/my-org-refile-workflow/">https://web.archive.org/web/20220829071422/https://yiming.dev/blog/2018/03/02/my-org-refile-workflow/</a>
+</li>
+<li><a href="https://git.entf.net/dotemacs/file/elpa/org-9.5/org-refile.el.html">https://git.entf.net/dotemacs/file/elpa/org-9.5/org-refile.el.html</a>
+</li>
+</ul>
+
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">[2022-09-02 Fri 22:48]</span></span> 我把 refile target 的 maxlevel 从 9 改为了 4，观察一段时间看看，当然我也觉得这不是真正的解决问题的办法。[doge]
+</p>
+
+<p>
+我今天发现 lsp-grammarly 有点问题，似乎和 projectile 有点关系，然后 refile targets cache 也卡住了……太棒了！
+</p>]]></description>
+	</item>
+<item>
         <title>要定得住</title>
         <link>https://note.jsntn.com/resisting.html</link>
         <guid></guid>
