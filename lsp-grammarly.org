@@ -1,5 +1,14 @@
 #+TITLE: 问题是好的
 #+DATE: <2022-09-02 Fri 19:01>
+[2022-09-05 Mon 22:48] 今天 disable 了 refile targets cache。然后 lsp-grammarly
+的问题似乎也好了[doge]……同时我增加了 lsp-mode 的配置，和 3 个 package：lsp-ui，
+helm-org-ql 和 lsp-treemacs。ALL THESE MADE MY DAY.[微笑]
+
+我也整理了 KeePass 数据库，iOS 上借助 Fantasy Pass 维护管理，一个反手我把其存于
+坚果云的数据库和 NAS 同步也配了。
+
+这还没完，Org 9 的 org-file-apps .mp4 打开的问题我也搞好了，哈哈哈哈哈
+
 [2022-09-03 Sat 12:45] 几个关于 refile cache 的待研究的参考文档
 - https://web.archive.org/web/20220829071422/https://yiming.dev/blog/2018/03/02/my-org-refile-workflow/
 - https://git.entf.net/dotemacs/file/elpa/org-9.5/org-refile.el.html
