@@ -7,6 +7,17 @@
 <description>Some notes from Jason Tian</description>
 <atom:link href='https://note.jsntn.com/rss.xml' rel='self' type='application/rss+xml' />
 <item>
+        <title>实体书</title>
+        <link>https://note.jsntn.com/books.html</link>
+        <guid></guid>
+        <pubDate>Thu, 06 Oct 2022 01:34:00 +0000</pubDate>
+        <description><![CDATA[
+
+<p>
+我现在已经不再买电子书了，倔强的亚马逊都退出了，实在不敢想象这虚拟的不确定性了，Stallman 他老人家说得都是至理名言。但离线电子书文件还是会看的，从阅读角度来说，这本就与实体书并不互斥，就好比实体唱片和离线音乐电子文件的关系。这里面当然不包括实体物件所能带来的感觉，这又好比人不可以活在虚拟的世界太久，再真实的感觉，也还是虚拟的现实。而也不应当偏执于现实，毕竟“一个人只拥有此生此世是不够的，他还应该拥有诗意的世界”。
+</p>]]></description>
+	</item>
+<item>
         <title>图书管理应用</title>
         <link>https://note.jsntn.com/books-management.html</link>
         <guid></guid>
