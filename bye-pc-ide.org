@@ -1,0 +1,22 @@
+#+TITLE: 我不会再在 Windows PC 折腾开发环境了
+#+DATE: <2023-01-28 Sat 21:48>
+* TL; DR
+[2023-01-31 Tue 17:36]
+
+因为 Ubuntu 18.04 的 EoS 马上就到了，借着这事，开始在 Windows PC 本地试着搭开发环境，结果耗了 4 天，整整 4 天，还是老老实实地回到了 Ubuntu……我本来还劝自己给 Windows 多一次机会，也给自己多一个选择，现在看属实是错付了。🐶
+
+* 2023/1/31
+[2023-01-31 Tue 17:23]
+
+Vagrantfile 测试完了，和小伙伴们也分享了。借助它把 Emacs 也拉起来，同时 clone 了我的 stable .emacs.d，改了 xterm-256color 和 PuTTY 的字体字号。一切相当完美！我先把话撂这儿----我不会再在 Windows PC 折腾开发环境了。🐶
+
+* 2023/1/30
+eglot 今天也试过了，这事儿我暂时放弃了。TIL 还是有的，比如 .emacs.d 更新了一些细节，变动了几个 package；Vagrantfile 我也更新了，明天测试。🐶
+
+* 2023/1/29
+[2023-01-29 Sun 23:26]
+
+这事我今天本来要放弃了的，因为 yyoncho 在 lsp-mode 的 issue #3841 里面也提到 tramp support 要被重写。但是下午我看到卡哥的《冒险家希尔达》腰封上的"那些做起来艰难的事情，终将让你引以为豪"，所以我决定明天继续试下 eglot。🐶
+
+* 2023/1/28
+想了想今天还是重新拉起了一个 Ubuntu 20.04，然后在 Windows PC 上搞了一天 remote pyright over emacs tramp，有进展但实在不多 🐶 明天要是再搞不好我就直接去虚拟机里面把 Emacs 整起来直接用，Windows PC 搞开发环境真的就是浪费生命啊……
