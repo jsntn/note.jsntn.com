@@ -82,6 +82,47 @@ eglot 今天也试过了，这事儿我暂时放弃了。TIL 还是有的，比�
 </div>]]></description>
 	</item>
 <item>
+        <title>iOS 的「高级数据保护」</title>
+        <link>https://note.jsntn.com/ios-adp.html</link>
+        <guid></guid>
+        <pubDate>Thu, 15 Dec 2022 21:43:00 +0000</pubDate>
+        <description><![CDATA[
+
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">2023</a></li>
+<li><a href="#sec-2">2022</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1">2023</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">[2023-01-30 Mon 23:35]</span></span>
+</p>
+
+<p>
+关闭了 iOS 的「高级数据保护」，重新回到了 Cryptomator 和 Disk Decipher，同时开了后者的 NTFS write support 便于扩容 VeraCrypt Volume。不是因为「高级数据保护」不好用，而是因为我的 MacBook 已经无法升级到 macOS 13.1 了，我之前以为有 NAS 和「坚果云」这对我不会有什么影响，现在看也不需要预测了，事实证明库克即将赢麻了。🐶
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2">2022</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">[2022-12-15 Thu 21:43]</span></span>
+</p>
+
+<p>
+刚启用了 iOS 16.2 RC 版本的「高级数据保护」。想到 Passkeys 也来了，再加上大家近来对手机隐私的重视。我预测库克很快就要赢麻了。 </p>
+</div>
+</div>]]></description>
+	</item>
+<item>
         <title>实体书</title>
         <link>https://note.jsntn.com/books.html</link>
         <guid></guid>
