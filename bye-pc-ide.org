@@ -1,5 +1,10 @@
 #+TITLE: 我不会再在 Windows PC 折腾开发环境了
 #+DATE: <2023-01-28 Sat 21:48>
+* 2023/2/8
+[2023-02-08 Wed 20:46]
+
+最近几天在 PC 上使用 Emacs over Ubuntu(by Vagrant)，terminal 终端是 Alacritty，整体体验非常好。整理了一个 Vagrantfile 可以快速 set up 一个基于 Ubuntu 18.04 LTS 的 Emacs 28，同时安装了 fzf 和 tmux，我的 Alacritty 配置和主题也一并分享在这里 https://github.com/jsntn/emacs-vagrantfile，其他细节可见其中的 deploy/bootstrap.sh
+
 * TL; DR
 [2023-01-31 Tue 17:36]
 
