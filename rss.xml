@@ -34,7 +34,7 @@
 </p>
 
 <p>
-最近几天在 PC 上使用 Emacs over Ubuntu(by Vagrant)，terminal 终端是 Alacritty，整体体验非常好。整理了一个 Vagrantfile 可以快速 set up 一个基于 Ubuntu 18.04 LTS 的 Emacs 28，同时安装了 fzf 和 tmux，我的 Alacritty 配置和主题也一并分享在这里 <a href="https://github.com/jsntn/emacs-vagrantfile%EF%BC%8C%E5%85%B6%E4%BB%96%E7%BB%86%E8%8A%82%E5%8F%AF%E8%A7%81%E5%85%B6%E4%B8%AD%E7%9A%84">https://github.com/jsntn/emacs-vagrantfile%EF%BC%8C%E5%85%B6%E4%BB%96%E7%BB%86%E8%8A%82%E5%8F%AF%E8%A7%81%E5%85%B6%E4%B8%AD%E7%9A%84</a> deploy/bootstrap.sh
+最近几天在 PC 上使用 Emacs over Ubuntu(by Vagrant)，terminal 终端是 Alacritty，整体体验非常好。整理了一个 Vagrantfile 可以快速 set up 一个基于 Ubuntu 18.04 LTS 的 Emacs 28，同时安装了 fzf 和 tmux，我的 Alacritty 配置和主题也一并分享在这里 <a href="https://github.com/jsntn/emacs-vagrantfile">https://github.com/jsntn/emacs-vagrantfile</a>，其他细节可见其中的 deploy/bootstrap.sh
 </p>
 </div>
 </div>
