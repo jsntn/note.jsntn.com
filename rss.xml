@@ -1417,26 +1417,57 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-23 Thu 21:49]</span></span></a></li>
-<li><a href="#sec-2"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-10 Fri 23:43]</span></span></a></li>
-<li><a href="#sec-3"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-03 Fri 21:20]</span></span></a></li>
-<li><a href="#sec-4"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-02 Thu 23:00]</span></span></a></li>
+<li><a href="#sec-1"><span class="timestamp-wrapper"><span class="timestamp">[2023-03-07 Tue 05:51]</span></span></a></li>
+<li><a href="#sec-2"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-23 Thu 21:49]</span></span></a></li>
+<li><a href="#sec-3"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-10 Fri 23:43]</span></span></a></li>
+<li><a href="#sec-4"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-03 Fri 21:20]</span></span></a></li>
+<li><a href="#sec-5"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-02 Thu 23:00]</span></span></a></li>
 </ul>
 </div>
 </div>
 
 <div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-23 Thu 21:49]</span></span></h2>
+<h2 id="sec-1"><span class="timestamp-wrapper"><span class="timestamp">[2023-03-07 Tue 05:51]</span></span></h2>
 <div class="outline-text-2" id="text-1">
+<p>
+我越来越认识到要凭借一己之力去管理一个开源项目需要很多技术以外的能力和性格特点，比如：
+</p>
+
+<ul class="org-ul">
+<li>清楚表达-&#x2014;既能够把复杂的技术细节讲清楚，也能够把复杂简单化和通俗化
+</li>
+<li>统筹规划-&#x2014;iteration changes 和 roadmap 等等
+</li>
+<li>沟通能力
+</li>
+<li>始终好奇并保持探索
+</li>
+<li>等等
+</li>
+</ul>
+
+<p>
+这些在 Jonas 的 EmacsSQL 4.0.0 里体现得淋漓尽致：
+</p>
+
+<p>
+<a href="https://github.com/magit/emacsql/issues/113">https://github.com/magit/emacsql/issues/113</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-23 Thu 21:49]</span></span></h2>
+<div class="outline-text-2" id="text-2">
 <p>
 我这两年在学习 Emacs，同时读了很多很多 Richard Stallman 的文章。现在我已经可以每天大部分的电脑时间生活在 Emacs 中，包括读写邮件。但仍然无法摆脱 X System，要断网了的话，我想也应该会让我崩了……等我攒够了足够的勇气，我要像 RMS 一样。
 </p>
 </div>
 </div>
 
-<div id="outline-container-sec-2" class="outline-2">
-<h2 id="sec-2"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-10 Fri 23:43]</span></span></h2>
-<div class="outline-text-2" id="text-2">
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-10 Fri 23:43]</span></span></h2>
+<div class="outline-text-2" id="text-3">
 <p>
 下午开会的时候，老王发消息给我，问我之前写的代码是基于哪个版本的？我当时就懵了，实在太久远了，久远到我都想不起来代码是什么时候写的了……刚才翻了之前的日记，才知道那已经是 2019 年的事情了……
 </p>
@@ -1480,9 +1511,9 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
 </div>
 </div>
 
-<div id="outline-container-sec-3" class="outline-2">
-<h2 id="sec-3"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-03 Fri 21:20]</span></span></h2>
-<div class="outline-text-2" id="text-3">
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-03 Fri 21:20]</span></span></h2>
+<div class="outline-text-2" id="text-4">
 <p>
 我发现我现在自己写点什么东西也懒得折腾什么富文本编辑了，发布的话也不用啥 WordPress 这些花哨的玩意儿了……我可能是上岁数了，也是累了。
 </p>
@@ -1497,9 +1528,9 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
 </div>
 </div>
 
-<div id="outline-container-sec-4" class="outline-2">
-<h2 id="sec-4"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-02 Thu 23:00]</span></span></h2>
-<div class="outline-text-2" id="text-4">
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-02 Thu 23:00]</span></span></h2>
+<div class="outline-text-2" id="text-5">
 <p>
 我开始更轻松地 commit 我的 .emacs.d 了（@github/jsntn/emacs.d），因为我现在终于理解了「过程」比「结果」重要，换句话说，什么才是最终的「结果」？这也不好定义。所以与其期待结果之后的成就感，不如享受过程中的点滴成长和进步。若「过程」是值得经历的，那么它就是值得记录的。</p>
 </div>
