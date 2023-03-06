@@ -1,10 +1,6 @@
 #+TITLE: #TIL
 #+DATE: <2023-01-01>
 
-* [2023-02-08 Wed 20:46]
-
-最近几天在 PC 上使用 Emacs over Ubuntu(by Vagrant)，terminal 终端是 Alacritty，整体体验非常好。整理了一个 Vagrantfile 可以快速 set up 一个基于 Ubuntu 18.04 LTS 的 Emacs 28，同时安装了 fzf 和 tmux，我的 Alacritty 配置和主题也一并分享在这里 https://github.com/jsntn/emacs-vagrantfile，其他细节可见其中的 deploy/bootstrap.sh
-
 * [2023-01-17 Tue 19:33]
 
 今天不得了了！我学到了太多有趣的东西。单说 Emacs，首先我了解到了我是完全可以使用 eshell over tramp 的（之前我都是用的 remote server 的 shell，存在 Tabnine 补全卡顿甚者 C-g 之后在 current session 就再也不好用的情况，等等）；其次在这个基础上，我知道了终止命令可以是 C-q C-c 而不需要再 list-process 然后 kill 掉，导致要重开 session；还有 eshell 的 C-up/down、Emacs 的 C-s 代替 reverse search 等等等等。😄
