@@ -1407,35 +1407,25 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-08 Wed 20:46]</span></span></a></li>
-<li><a href="#sec-2"><span class="timestamp-wrapper"><span class="timestamp">[2023-01-17 Tue 19:33]</span></span></a></li>
-<li><a href="#sec-3"><span class="timestamp-wrapper"><span class="timestamp">[2023-01-17 Tue 19:57]</span></span></a></li>
-<li><a href="#sec-4"><span class="timestamp-wrapper"><span class="timestamp">[2023-01-03 Tue 21:04]</span></span></a></li>
+<li><a href="#sec-1"><span class="timestamp-wrapper"><span class="timestamp">[2023-01-17 Tue 19:33]</span></span></a></li>
+<li><a href="#sec-2"><span class="timestamp-wrapper"><span class="timestamp">[2023-01-17 Tue 19:57]</span></span></a></li>
+<li><a href="#sec-3"><span class="timestamp-wrapper"><span class="timestamp">[2023-01-03 Tue 21:04]</span></span></a></li>
 </ul>
 </div>
 </div>
 
 <div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1"><span class="timestamp-wrapper"><span class="timestamp">[2023-02-08 Wed 20:46]</span></span></h2>
+<h2 id="sec-1"><span class="timestamp-wrapper"><span class="timestamp">[2023-01-17 Tue 19:33]</span></span></h2>
 <div class="outline-text-2" id="text-1">
-<p>
-最近几天在 PC 上使用 Emacs over Ubuntu(by Vagrant)，terminal 终端是 Alacritty，整体体验非常好。整理了一个 Vagrantfile 可以快速 set up 一个基于 Ubuntu 18.04 LTS 的 Emacs 28，同时安装了 fzf 和 tmux，我的 Alacritty 配置和主题也一并分享在这里 <a href="https://github.com/jsntn/emacs-vagrantfile%EF%BC%8C%E5%85%B6%E4%BB%96%E7%BB%86%E8%8A%82%E5%8F%AF%E8%A7%81%E5%85%B6%E4%B8%AD%E7%9A%84">https://github.com/jsntn/emacs-vagrantfile%EF%BC%8C%E5%85%B6%E4%BB%96%E7%BB%86%E8%8A%82%E5%8F%AF%E8%A7%81%E5%85%B6%E4%B8%AD%E7%9A%84</a> deploy/bootstrap.sh
-</p>
-</div>
-</div>
-
-<div id="outline-container-sec-2" class="outline-2">
-<h2 id="sec-2"><span class="timestamp-wrapper"><span class="timestamp">[2023-01-17 Tue 19:33]</span></span></h2>
-<div class="outline-text-2" id="text-2">
 <p>
 今天不得了了！我学到了太多有趣的东西。单说 Emacs，首先我了解到了我是完全可以使用 eshell over tramp 的（之前我都是用的 remote server 的 shell，存在 Tabnine 补全卡顿甚者 C-g 之后在 current session 就再也不好用的情况，等等）；其次在这个基础上，我知道了终止命令可以是 C-q C-c 而不需要再 list-process 然后 kill 掉，导致要重开 session；还有 eshell 的 C-up/down、Emacs 的 C-s 代替 reverse search 等等等等。😄
 </p>
 </div>
 </div>
 
-<div id="outline-container-sec-3" class="outline-2">
-<h2 id="sec-3"><span class="timestamp-wrapper"><span class="timestamp">[2023-01-17 Tue 19:57]</span></span></h2>
-<div class="outline-text-2" id="text-3">
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="timestamp-wrapper"><span class="timestamp">[2023-01-17 Tue 19:57]</span></span></h2>
+<div class="outline-text-2" id="text-2">
 <p>
 我还解决了 Hugo 的 invalid timezone 的问题；用 Emacs 和 Copilot 快速完成了段代码实现了 sticky post（网站文章置顶）的功能。
 </p>
@@ -1450,9 +1440,9 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
 </div>
 </div>
 
-<div id="outline-container-sec-4" class="outline-2">
-<h2 id="sec-4"><span class="timestamp-wrapper"><span class="timestamp">[2023-01-03 Tue 21:04]</span></span></h2>
-<div class="outline-text-2" id="text-4">
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="timestamp-wrapper"><span class="timestamp">[2023-01-03 Tue 21:04]</span></span></h2>
+<div class="outline-text-2" id="text-3">
 <p>
 需要把 700 多个文件重命名，涉及到删、改和部分大小写转换，这活儿按照我本来的想法是得整一个 shell 脚本跑一遍的，用 Emacs 初始化了脚本后我突然想到也许 Emacs 的 dired 模式下可以快速完成吧？于是进入了 dired，dired-toggle-read-only，再然后就是在其中直接 query-replace 和借用正则尽情翱翔了，最后 wdired-finish-edit 退出，完成。
 </p>
