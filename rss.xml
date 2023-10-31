@@ -7,6 +7,86 @@
 <description>Some notes from Jason Tian</description>
 <atom:link href='https://note.jsntn.com/rss.xml' rel='self' type='application/rss+xml' />
 <item>
+        <title>org-task-scheduler.el</title>
+        <link>https://note.jsntn.com/org-task-scheduler.html</link>
+        <guid></guid>
+        <pubDate>Tue, 31 Oct 2023 10:54:00 +0000</pubDate>
+        <description><![CDATA[
+
+<blockquote>
+<p>
+If you're reading this, you have my thanks. But let's be honest: I can't know
+what you like. Every human product that's really worth reading or seeing or
+hearing is made mostly to please its human producer. Because if you aim to
+please the world you usually miss, the target's just too big and you can only
+guess where it is&#x2026;
+</p>
+<ul class="org-ul">
+<li>Tim Bray
+</li>
+</ul>
+<p>
+(<a href="https://www.tbray.org/ongoing/When/201x/2017/05/03/Blogging-in-2017">https://www.tbray.org/ongoing/When/201x/2017/05/03/Blogging-in-2017</a>)
+</p>
+</blockquote>
+
+<p>
+Oh, the pursuit of perfection to one's needs, my dear reader, is a noble and
+enticing endeavor. How often have we found ourselves dissatisfied with the
+offerings of others, not because they were lacking in quality, but simply
+because they did not align exactly with our unique desires?
+</p>
+
+<p>
+Such was my predicament when I embarked on a quest to find the perfect package
+to my requirements, one that would cater to my specific needs. I delved into the
+sea of options, hoping to discover a gem that would captivate me in ways beyond
+imagination. Alas, despite encountering several commendable contenders, none
+could fulfill the specific expectations I had set upon them.
+</p>
+
+<p>
+It was not a matter of their inadequacy or their inherent flaws; quite the
+contrary, these packages were exceptional in their own right. However, my heart
+yearned for something else and more, something that would cater to my
+idiosyncratic requests. And so, embracing the spirit of creativity and
+curiosity, I ventured forth into the realm of creation.
+</p>
+
+<p>
+Ah, the art of forging one's own path, designing a realm tailored to one's
+desires - it is both liberating and daunting. With jumbled thoughts and visions
+swirling in my mind, I harnessed my determination and set about the arduous task
+of crafting my own package, one that would satisfy my simple yet profound needs.
+</p>
+
+<p>
+Time passed, and my labor of love took shape. With each stroke of the keyboard
+and every line of code, I breathed life into my creation, shaping it into a
+tangible embodiment of my aspirations. And finally, after countless hours of
+toil and unwavering dedication, my creation stood before me - a manifestation of
+my desires, manifested in the digital realm.
+</p>
+
+<p>
+So here it stands, my dear reader, the culmination of my endeavors. A package
+born from the depths of my imagination, with every intricate detail tailored to
+perfection. It is not the most intricate or grandiose, but it is uniquely mine -
+a testament to the power of willful creation.
+</p>
+
+<p>
+Thus, I present to you my creation, a testament to the pursuit of individuality
+and the refusal to settle for existing offerings. May it inspire you to embark
+on your own creative journey, for within the realm of personalization lies the
+true essence of satisfaction and fulfillment.
+</p>
+
+<p>
+-&gt; <a href="https://github.com/jsntn/org-task-scheduler.el">https://github.com/jsntn/org-task-scheduler.el</a>
+</p>]]></description>
+	</item>
+<item>
         <title>我不会再在 Windows PC 折腾开发环境了</title>
         <link>https://note.jsntn.com/bye-pc-ide.html</link>
         <guid></guid>
@@ -1410,7 +1490,7 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
         <title>无题</title>
         <link>https://note.jsntn.com/2023-untitled.html</link>
         <guid></guid>
-        <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
         <description><![CDATA[
 
 <div id="table-of-contents">
@@ -1540,7 +1620,7 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
         <title>#TIL</title>
         <link>https://note.jsntn.com/2023-til.html</link>
         <guid></guid>
-        <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
         <description><![CDATA[
 
 <div id="table-of-contents">
