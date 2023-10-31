@@ -1,4 +1,6 @@
 * About here
+[[https://github.com/jsntn/dot-emacs/actions/workflows/test.yml][https://github.com/jsntn/note.jsntn.com/actions/workflows/main.yml/badge.svg]]
+
 Just a site with some of my notes.
 * The site URL
 https://note.jsntn.com

@@ -6,7 +6,7 @@ what you like. Every human product that's really worth reading or seeing or
 hearing is made mostly to please its human producer. Because if you aim to
 please the world you usually miss, the target's just too big and you can only
 guess where it is...
-- Tim Bray
+\- Tim Bray
 (https://www.tbray.org/ongoing/When/201x/2017/05/03/Blogging-in-2017)
 #+end_quote
 
@@ -48,4 +48,4 @@ and the refusal to settle for existing offerings. May it inspire you to embark
 on your own creative journey, for within the realm of personalization lies the
 true essence of satisfaction and fulfillment.
 
--> https://github.com/jsntn/org-task-scheduler.el
+👉 https://github.com/jsntn/org-task-scheduler.el
