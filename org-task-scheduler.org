@@ -50,3 +50,65 @@ on your own creative journey, for within the realm of personalization lies the
 true essence of satisfaction and fulfillment.
 
 👉 https://github.com/jsntn/org-task-scheduler.el
+
+** My Use Case
+
+It was a chilly autumn morning when I found myself immersed in my
+study, surrounded by books and the captivating allure of the
+written word. The faint smell of freshly brewed coffee wafted
+through the air, mingling with the faint scent of old paper. My
+attention fixated on the work on my Emacs, and I know its
+background process is filtering all my tasks to let me know which
+ones are about to be revealed.
+
+Wrapped in the cocoon of my obsession with organization, I had
+meticulously crafted a schedule utilizing the remarkable
+abilities of Emacs. This digital mastermind would dutifully
+execute the commands of a script named org-task-scheduler.el, a
+creation born out of my desire for efficiency and productivity.
+
+From the depths of my being, a voice dictated the rules: "Let the
+timer begin its relentless countdown, working days from 10AM to
+6PM, every 15 minutes." And so it was set, like a grand symphony
+of time management merging with the rhythmic ticking of a clock.
+
+With each passing moment, my dedication to this endeavor
+deepened. The tasks that complied with the criteria I had
+painstakingly configured would be captured and recorded in a file
+named tasks.org. This sacred shrine of productivity would
+transcend the boundaries of my study, for it would be synced
+through a cloud drive. This synchronized bond would allow me the
+convenience of accessing my tasks on any of my trusted devices, a
+modern marvel connecting me with my own thoughts.
+
+Yet, productivity existed not solely in the realm of organization
+and documentation. Aware of the intrinsic value of deadlines and
+the urgency they inspire, I had engineered a pop-up to ensure my
+attention remained undivided on the tasks. Kind of alarms, sweet
+sirens of time's passage, would resound with purpose, piercing
+the silence of my study. They would alert me as tasks approached
+their scheduled starting time or solemnly stood at the threshold
+of their unforgiving deadlines.
+
+Oh, the irony of it all! The pursuit of productivity defined my
+days, but was I not merely a marionette controlled by the strings
+of time? I had harnessed its power, bending it to my will, yet I
+was forever beholden to the very entity I sought to conquer.
+
+As the minutes dwindled and the day pressed on, I surrendered to
+the rhythmic cycle of productivity. The creation had distilled
+the essence of discipline and structure into a simple script,
+guiding my every move, every thought.
+
+In the depths of my study, amidst the organized chaos of my
+thoughts and the silent clicking of keys, I found solace. The
+world outside faded into insignificance as I lost myself in the
+symphony of productivity, conductor of my own destiny, driven by
+the relentless pursuit of efficiency.
+
+Such is the life I have chosen, a life governed by timers,
+alarms, and the unquenchable thirst for accomplishment. In the
+end, it is not the tasks completed or the deadlines met that
+define me, but the passion and devotion with which I approach
+them. And so, I continue my journey, embracing the embrace of
+productivity's sweet embrace.
