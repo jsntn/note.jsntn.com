@@ -1,6 +1,7 @@
 #+TITLE: <hi@jsntn.com> Notes
 * 2023
 - [[./org-task-scheduler.org][org-task-scheduler.el]]
+- [[./copy-paste-by-emacs.org][A fix to copy-paste across VM and Host by Emacs]]
 - [[./bye-pc-ide.org][我不会再在 Windows PC 折腾开发环境了]]
 - [[./2023-untitled.org][无题]]
 - [[./2023-til.org][#TIL]]

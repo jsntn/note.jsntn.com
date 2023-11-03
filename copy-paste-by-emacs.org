@@ -1,0 +1,16 @@
+#+TITLE: A fix to copy-paste across VM and Host by Emacs
+#+DATE: [2023-10-14 Sat 01:06] 
+
+The copy and paste between virtual machines and host machines on the Windows system always requires the installation of various compatibility issue plugins, and even requires several attempts and restarts. Even after switching to Vagrant, this copy and paste feature is still not perfect.
+
+In the afternoon, I wrote some Emacs Lisp code to solve this problem.
+
+The idea is very straightforward: using two text files, one to record the content of the host machine's clipboard for the virtual machine to read, and another to record the copy content of the virtual machine for the host machine to read. Then, a scheduled task is set up on both the host machine and the virtual machine to read and update the content.
+
+The drawback is that text files only support plain text content. It is not effective for rich text content and file copy and paste.
+
+The code can be found [[https://github.com/jsntn/emacs.d/blob/3f19f57372b7315f06f5c8ed6991a175837d60ac/lisp/init-misc.el#L33L140][here]]. No additional plugins or dependencies are required, just paste it into Emacs and run it directly.
+
+With this setup, I can copy on my Windows host machine and then switch to the virtual machine to directly paste; copy in the virtual machine and then paste it in the host machine. It works very smoothly.
+
+My copy and paste operations with window switching take about 1.5 to 2.5 seconds, and the minimum synchronization interval for each copy and paste task between the host machine and the virtual machine is 2 seconds. This time is obviously not perfect, but it is extremely suitable for me and my work computer.
