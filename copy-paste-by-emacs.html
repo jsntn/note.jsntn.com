@@ -17,7 +17,10 @@
 </div><div id="content">
 <h1 class="title">A fix to copy-paste across VM and Host by Emacs</h1>
 <p>
-The copy and paste between virtual machines and host machines on the Windows system always requires the installation of various compatibility issue plugins, and even requires several attempts and restarts. Even after switching to Vagrant, this copy and paste feature is still not perfect.
+The copy and paste between virtual machines and host machines on the Windows
+system always requires the installation of various compatibility issue plugins,
+and even requires several attempts and restarts. Even after switching to
+Vagrant, this copy and paste feature is still not perfect.
 </p>
 
 <p>
@@ -25,23 +28,35 @@ In the afternoon, I wrote some Emacs Lisp code to solve this problem.
 </p>
 
 <p>
-The idea is very straightforward: using two text files, one to record the content of the host machine's clipboard for the virtual machine to read, and another to record the copy content of the virtual machine for the host machine to read. Then, a scheduled task is set up on both the host machine and the virtual machine to read and update the content.
+The idea is very straightforward: using two text files, one to record the
+content of the host machine's clipboard for the virtual machine to read, and
+another to record the copy content of the virtual machine for the host machine
+to read. Then, a scheduled task is set up on both the host machine and the
+virtual machine to read and update the content.
 </p>
 
 <p>
-The drawback is that text files only support plain text content. It is not effective for rich text content and file copy and paste.
+The drawback is that text files only support plain text content. It is not
+effective for rich text content and file copy and paste.
 </p>
 
 <p>
-The code can be found <a href="https://github.com/jsntn/emacs.d/blob/3f19f57372b7315f06f5c8ed6991a175837d60ac/lisp/init-misc.el#L33L140">here</a>. No additional plugins or dependencies are required, just paste it into Emacs and run it directly.
+The code can be found <a href="https://github.com/jsntn/emacs.d/blob/3f19f57372b7315f06f5c8ed6991a175837d60ac/lisp/init-misc.el#L33L140">here</a>. No additional plugins or dependencies are required,
+just paste it into Emacs and run it directly.
 </p>
 
 <p>
-With this setup, I can copy on my Windows host machine and then switch to the virtual machine to directly paste; copy in the virtual machine and then paste it in the host machine. It works very smoothly.
+With this setup, I can copy on my Windows host machine and then switch to the
+virtual machine to directly paste; copy in the virtual machine and then paste it
+in the host machine. It works very smoothly.
 </p>
 
 <p>
-My copy and paste operations with window switching take about 1.5 to 2.5 seconds, and the minimum synchronization interval for each copy and paste task between the host machine and the virtual machine is 2 seconds. This time is obviously not perfect, but it is extremely suitable for me and my work computer.</p>
+My copy and paste operations with window switching take about 1.5 to 2.5
+seconds, and the minimum synchronization interval for each copy and paste task
+between the host machine and the virtual machine is 2 seconds. This time is
+obviously not perfect, but it is extremely suitable for me and my work computer.
+</p>
 </div>
 <div id="postamble" class="status">
 <hr />

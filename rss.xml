@@ -183,7 +183,10 @@ productivity's sweet embrace.
         <description><![CDATA[
 
 <p>
-The copy and paste between virtual machines and host machines on the Windows system always requires the installation of various compatibility issue plugins, and even requires several attempts and restarts. Even after switching to Vagrant, this copy and paste feature is still not perfect.
+The copy and paste between virtual machines and host machines on the Windows
+system always requires the installation of various compatibility issue plugins,
+and even requires several attempts and restarts. Even after switching to
+Vagrant, this copy and paste feature is still not perfect.
 </p>
 
 <p>
@@ -191,23 +194,163 @@ In the afternoon, I wrote some Emacs Lisp code to solve this problem.
 </p>
 
 <p>
-The idea is very straightforward: using two text files, one to record the content of the host machine's clipboard for the virtual machine to read, and another to record the copy content of the virtual machine for the host machine to read. Then, a scheduled task is set up on both the host machine and the virtual machine to read and update the content.
+The idea is very straightforward: using two text files, one to record the
+content of the host machine's clipboard for the virtual machine to read, and
+another to record the copy content of the virtual machine for the host machine
+to read. Then, a scheduled task is set up on both the host machine and the
+virtual machine to read and update the content.
 </p>
 
 <p>
-The drawback is that text files only support plain text content. It is not effective for rich text content and file copy and paste.
+The drawback is that text files only support plain text content. It is not
+effective for rich text content and file copy and paste.
 </p>
 
 <p>
-The code can be found <a href="https://github.com/jsntn/emacs.d/blob/3f19f57372b7315f06f5c8ed6991a175837d60ac/lisp/init-misc.el#L33L140">here</a>. No additional plugins or dependencies are required, just paste it into Emacs and run it directly.
+The code can be found <a href="https://github.com/jsntn/emacs.d/blob/3f19f57372b7315f06f5c8ed6991a175837d60ac/lisp/init-misc.el#L33L140">here</a>. No additional plugins or dependencies are required,
+just paste it into Emacs and run it directly.
 </p>
 
 <p>
-With this setup, I can copy on my Windows host machine and then switch to the virtual machine to directly paste; copy in the virtual machine and then paste it in the host machine. It works very smoothly.
+With this setup, I can copy on my Windows host machine and then switch to the
+virtual machine to directly paste; copy in the virtual machine and then paste it
+in the host machine. It works very smoothly.
 </p>
 
 <p>
-My copy and paste operations with window switching take about 1.5 to 2.5 seconds, and the minimum synchronization interval for each copy and paste task between the host machine and the virtual machine is 2 seconds. This time is obviously not perfect, but it is extremely suitable for me and my work computer.</p>]]></description>
+My copy and paste operations with window switching take about 1.5 to 2.5
+seconds, and the minimum synchronization interval for each copy and paste task
+between the host machine and the virtual machine is 2 seconds. This time is
+obviously not perfect, but it is extremely suitable for me and my work computer.
+</p>]]></description>
+	</item>
+<item>
+        <title>亦幻亦真/Illusory and Real</title>
+        <link>https://note.jsntn.com/iar.html</link>
+        <guid></guid>
+        <pubDate>Mon, 24 Jul 2023 21:09:00 +0000</pubDate>
+        <description><![CDATA[
+
+<p>
+Many years ago, on a whim, I wrote a little something - a TrueCrypt/VeraCrypt
+launcher. Little did I know at the time that this piece of code would become the
+starting point of my journey into heavy encryption.
+</p>
+
+<p>
+The time when the story began feels distant now. For the purpose of privacy
+protection, I was searching for a reliable encryption software, and TrueCrypt
+became my choice, until 2014, I switched to VeraCrypt.
+</p>
+
+<p>
+&gt; (*) Reason: <a href="https://jsntn.com/software/2014/06/01/truecrypt.html">https://jsntn.com/software/2014/06/01/truecrypt.html</a>, in fact, I
+am still using both TrueCrypt and VeraCrypt simultaneously.
+</p>
+
+<p>
+However, the tedious process of opening the software, selecting the encrypted
+volume, entering the password, and manually mounting the disk every time made me
+tired. I needed a simple and efficient way to manage my encrypted volumes, so I
+started conceptualizing and designing a launcher.
+</p>
+
+<p>
+Then, in 2021, I open-sourced this launcher and put it on
+<a href="https://github.com/jsntn/veracrypt-launcher">https://github.com/jsntn/veracrypt-launcher</a>.
+</p>
+
+<p>
+I have polished it over the years, using and iterating continuously, and I
+believe it has become a very complete version now.
+</p>
+
+<p>
+This launcher has many highlights, let me tell you about them one by one:
+</p>
+
+<ul class="org-ul">
+<li>First of all, it is a portable application, with no need for troublesome
+installation. With just one click, you can happily use it.
+</li>
+
+<li>Secondly, I have built-in support for TrueCrypt/VeraCrypt, making it easy for
+you to encrypt your data.
+</li>
+
+<li>Moreover, the launcher has a fantastic feature. By using corresponding batch
+files, you can easily mount volumes in read-only or read/write mode, giving
+your data the best protection in different scenarios.
+</li>
+
+<li>Not only that, the launcher also supports a single configuration INI file,
+allowing you to customize your decryption settings.
+</li>
+
+<li>Furthermore, you can specify a specific drive or let the launcher
+automatically find an available drive letter.
+</li>
+
+<li>Lastly, I can proudly tell you that it is very stable and reliable.
+</li>
+</ul>
+
+<p>
+Today, I cautiously released version 0.1.0 of this launcher, which is my first
+step towards perfection. I consider it a gift for you, who, like me, love
+privacy and encryption.
+</p>
+
+<p>
+If you don't know what TrueCrypt/VeraCrypt is, I recommend you to learn about it
+immediately. It can effectively protect your personal privacy and important
+data. To put it in a grander way, it is not just a tool, but a manifestation of
+values.
+</p>
+
+<p>
+However, if you find that VeraCrypt is not useful for you after using it, I can
+give you some advice to help you discover its applicable scenarios:
+</p>
+
+<ul class="org-ul">
+<li>You can use it as a storage volume for your portable software, protecting your
+data privacy.
+</li>
+
+<li>When you need to handle fragmented files, it can also serve as your storage
+volume, solving the efficiency and encryption issues of cloud synchronization.
+</li>
+
+<li>You can also combine it with external hard drives or NAS for more stringent
+data protection.
+</li>
+</ul>
+
+<p>
+Don't forget, these scenarios can be easily implemented on your personal
+devices. And with the help of the launcher on the PC platform, starting
+TrueCrypt/VeraCrypt becomes even quicker and more convenient.
+</p>
+
+<p>
+I even feel that everyone should use VeraCrypt-like software to encrypt their
+data on their personal devices. It should be used even more on non-personal
+devices because we are unsure and cannot control their security.
+</p>
+
+<p>
+Finally, I have said so much.
+</p>
+
+<p>
+This little launcher, carrying my love for privacy protection, will continue to
+accompany me every day on my PC.
+</p>
+
+<p>
+In the virtual world, both illusory and real.
+</p>]]></description>
 	</item>
 <item>
         <title>我不会再在 Windows PC 折腾开发环境了</title>
@@ -1613,7 +1756,7 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
         <title>无题</title>
         <link>https://note.jsntn.com/2023-untitled.html</link>
         <guid></guid>
-        <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
         <description><![CDATA[
 
 <div id="table-of-contents">
@@ -1743,7 +1886,7 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
         <title>#TIL</title>
         <link>https://note.jsntn.com/2023-til.html</link>
         <guid></guid>
-        <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
         <description><![CDATA[
 
 <div id="table-of-contents">
