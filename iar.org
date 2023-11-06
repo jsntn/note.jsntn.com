@@ -1,0 +1,80 @@
+#+TITLE: 亦幻亦真/Illusory and Real
+#+DATE: [2023-07-24 Mon 21:09]
+
+Many years ago, on a whim, I wrote a little something - a TrueCrypt/VeraCrypt
+launcher. Little did I know at the time that this piece of code would become the
+starting point of my journey into heavy encryption.
+
+The time when the story began feels distant now. For the purpose of privacy
+protection, I was searching for a reliable encryption software, and TrueCrypt
+became my choice, until 2014, I switched to VeraCrypt.
+
+> (*) Reason: https://jsntn.com/software/2014/06/01/truecrypt.html, in fact, I
+am still using both TrueCrypt and VeraCrypt simultaneously.
+
+However, the tedious process of opening the software, selecting the encrypted
+volume, entering the password, and manually mounting the disk every time made me
+tired. I needed a simple and efficient way to manage my encrypted volumes, so I
+started conceptualizing and designing a launcher.
+
+Then, in 2021, I open-sourced this launcher and put it on
+https://github.com/jsntn/veracrypt-launcher.
+
+I have polished it over the years, using and iterating continuously, and I
+believe it has become a very complete version now.
+
+This launcher has many highlights, let me tell you about them one by one:
+
+- First of all, it is a portable application, with no need for troublesome
+  installation. With just one click, you can happily use it.
+
+- Secondly, I have built-in support for TrueCrypt/VeraCrypt, making it easy for
+  you to encrypt your data.
+
+- Moreover, the launcher has a fantastic feature. By using corresponding batch
+  files, you can easily mount volumes in read-only or read/write mode, giving
+  your data the best protection in different scenarios.
+
+- Not only that, the launcher also supports a single configuration INI file,
+  allowing you to customize your decryption settings.
+
+- Furthermore, you can specify a specific drive or let the launcher
+  automatically find an available drive letter.
+
+- Lastly, I can proudly tell you that it is very stable and reliable.
+
+Today, I cautiously released version 0.1.0 of this launcher, which is my first
+step towards perfection. I consider it a gift for you, who, like me, love
+privacy and encryption.
+
+If you don't know what TrueCrypt/VeraCrypt is, I recommend you to learn about it
+immediately. It can effectively protect your personal privacy and important
+data. To put it in a grander way, it is not just a tool, but a manifestation of
+values.
+
+However, if you find that VeraCrypt is not useful for you after using it, I can
+give you some advice to help you discover its applicable scenarios:
+
+- You can use it as a storage volume for your portable software, protecting your
+  data privacy.
+
+- When you need to handle fragmented files, it can also serve as your storage
+  volume, solving the efficiency and encryption issues of cloud synchronization.
+
+- You can also combine it with external hard drives or NAS for more stringent
+  data protection.
+
+Don't forget, these scenarios can be easily implemented on your personal
+devices. And with the help of the launcher on the PC platform, starting
+TrueCrypt/VeraCrypt becomes even quicker and more convenient.
+
+I even feel that everyone should use VeraCrypt-like software to encrypt their
+data on their personal devices. It should be used even more on non-personal
+devices because we are unsure and cannot control their security.
+
+Finally, I have said so much.
+
+This little launcher, carrying my love for privacy protection, will continue to
+accompany me every day on my PC.
+
+In the virtual world, both illusory and real.
