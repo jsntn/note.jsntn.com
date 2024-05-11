@@ -2,6 +2,7 @@
 * 2023
 - [[./org-task-scheduler.org][org-task-scheduler.el]]
 - [[./copy-paste-by-emacs.org][A fix to copy-paste across VM and Host by Emacs]]
+- [[./emacs-3-years.org][Emacs 三年]]
 - [[./iar.org][亦幻亦真/Illusory and Real]]
 - [[./bye-pc-ide.org][我不会再在 Windows PC 折腾开发环境了]]
 - [[./2023-untitled.org][无题]]

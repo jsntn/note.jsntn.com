@@ -1,0 +1,37 @@
+#+TITLE: Emacs 三年
+#+DATE: [2023-07-27 Thu 17:56]
+潜心修炼 Emacs 和 Emacs Lisp 已经 3 年多，我经常会感觉自己一直在原地打转，并为此
+困惑不已。
+
+直到今天，源于一个我从 2021 年开始启用的有道词典在线插件，今天发现它开始出服务器
+错误提示了。对此我其实是一点都不意外，因为我现在已经坚信「简单化」和「本地化」才
+是王道。何不借此机会，干脆写一个 function 直接调用我本地的 GoldenDict 呢？直觉告
+诉我，这应该不难。
+
+而这“直觉”属实让我兴奋和惊喜！要知道 1 年前这种想法我是想都不敢想的。
+
+于是，大概 10 分钟后，我就有了[[https://github.com/jsntn/emacs.d/blob/2faac38bfb664eacfc582fb8cbf9f30c72102662/lisp/init-dict.el#L7L29][这样]]的一段代码。
+
+至此，我终于感到自己并没有在原地打转。
+
+因为山始终在那里，可它的影像于我确已清晰。
+
+--
+
+I have been devoted to mastering Emacs and Emacs Lisp for over 3 years now, but
+I often feel like I'm spinning my wheels and it confuses me.
+
+Until today, when I encountered a server error message from the Youdao
+Dictionary online plugin that I started using in 2021. I wasn't surprised at all
+because now I firmly believe that "simplicity" and "localization" are the way to
+go. So why not take this opportunity and write a function to directly call my
+local GoldenDict? My intuition tells me that it shouldn't be difficult.
+
+And this intuition truly excites and surprises me! You see, a year ago, I
+wouldn't have dared to entertain such an idea.
+
+So, about 10 minutes later, I had [[https://github.com/jsntn/emacs.d/blob/2faac38bfb664eacfc582fb8cbf9f30c72102662/lisp/init-dict.el#L7L29][this]] piece of code.
+
+And now, I finally feel like I'm not spinning my wheels anymore.
+
+Because the mountain is always there, but its image has become clear to me.
