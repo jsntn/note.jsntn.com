@@ -1,4 +1,7 @@
 #+TITLE: <hi@jsntn.com> Notes
+* 2024
+- [[.c:/coding/note.jsntn.com/notes/3.1.1.org][3.1.1]]
+
 * 2023
 - [[./org-task-scheduler.org][org-task-scheduler.el]]
 - [[./copy-paste-by-emacs.org][A fix to copy-paste across VM and Host by Emacs]]
