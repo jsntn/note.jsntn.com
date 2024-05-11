@@ -7,6 +7,33 @@
 <description>Some notes from Jason Tian</description>
 <atom:link href='https://note.jsntn.com/rss.xml' rel='self' type='application/rss+xml' />
 <item>
+        <title>3.1.1</title>
+        <link>https://note.jsntn.com/3.1.1.html</link>
+        <guid></guid>
+        <pubDate>Fri, 26 Apr 2024 22:10:00 +0000</pubDate>
+        <description><![CDATA[
+
+<p>
+经过 4 个月不长也不算短的努力，12 次迭代，我们的第一个正式版今天发出去了。老陈建议我去买挂鞭庆祝一下，我仔细一想，还是算了吧，毕竟这事儿还没完呢。
+</p>
+
+<p>
+早晨，哥几个一起再一次过了每一个细节的进展，确认了看板的 milestone，还差 21%，但是上帝们等不了了。
+</p>
+
+<p>
+下班前，我们把长达 71 页的 user guide 定稿，并发送给了客户。没发布的时候，我多么期待这一天。我说，提交出去的一刻，像送别一个旅人，想想它即将直面一切，又心生难舍。老陈看着我，目光直视内心，轻轻说道——菩提祖师传悟空驾云变身之术，对他恩义如山，送别悟空时说，日后你若惹出什么祸来……
+</p>
+
+<p>
+回望这 4 个月，打开 git 的历史，点点滴滴的提交记录像一本书，记载我们的每一步，心中开心交织着遗憾，织成了一段沉甸甸的回忆。
+</p>
+
+<p>
+不知道说些什么，也不知道应该从哪里说起，我想了半天，跟兄弟们说——咱是真牛逼啊！
+</p>]]></description>
+	</item>
+<item>
         <title>org-task-scheduler.el</title>
         <link>https://note.jsntn.com/org-task-scheduler.html</link>
         <guid></guid>
