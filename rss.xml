@@ -7,6 +7,24 @@
 <description>Some notes from Jason Tian</description>
 <atom:link href='https://note.jsntn.com/rss.xml' rel='self' type='application/rss+xml' />
 <item>
+        <title>Habits Tracker</title>
+        <link>https://note.jsntn.com/ht.html</link>
+        <guid></guid>
+        <pubDate>Thu, 13 Jun 2024 23:32:00 +0000</pubDate>
+        <description><![CDATA[
+
+<p>
+我用纯文本文件记录着一些习惯养成的日志，每天确认实践了的事项并一一划掉。
+</p>
+
+<p>
+每当这时，我都会想到张二冬写的一段话：
+</p>
+
+<p>
+我总希望每一天，每一年，都像摘果子一样，有些收获，这样的话，到了五十，知天命的年龄，一定是很坦然的，因为回忆起来，是厚厚的一生。</p>]]></description>
+	</item>
+<item>
         <title>3.1.1</title>
         <link>https://note.jsntn.com/3.1.1.html</link>
         <guid></guid>
@@ -1862,7 +1880,7 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
         <title>无题</title>
         <link>https://note.jsntn.com/2023-untitled.html</link>
         <guid></guid>
-        <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
         <description><![CDATA[
 
 <div id="table-of-contents">
@@ -2027,7 +2045,7 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
         <title>#TIL</title>
         <link>https://note.jsntn.com/2023-til.html</link>
         <guid></guid>
-        <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
         <description><![CDATA[
 
 <div id="table-of-contents">
