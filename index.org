@@ -1,5 +1,6 @@
 #+TITLE: <hi@jsntn.com> Notes
 * 2024
+- [[./ht.org][Habits Tracker]]
 - [[./3.1.1.org][3.1.1]]
 
 * 2023
