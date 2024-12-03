@@ -7,6 +7,60 @@
 <description>Some notes from Jason Tian</description>
 <atom:link href='https://note.jsntn.com/rss.xml' rel='self' type='application/rss+xml' />
 <item>
+        <title>sdcv.el</title>
+        <link>https://note.jsntn.com/sdcv.el.html</link>
+        <guid></guid>
+        <pubDate>Tue, 03 Dec 2024 22:54:00 +0000</pubDate>
+        <description><![CDATA[
+
+<p>
+sdcv.el 是我基于 Chen Bin 的 sdcv Elisp 实现代码修改而来的，
+</p>
+
+<ul class="org-ul">
+<li>支持多字典查询
+</li>
+<li>修改了字典的定义方式
+</li>
+<li>增加了 sdcv-mode
+</li>
+</ul>
+
+<p>
+详见：<a href="https://github.com/jsntn/sdcv.el">https://github.com/jsntn/sdcv.el</a>
+</p>
+
+<p>
+我的其他 Emacs Package：
+</p>
+
+<p>
+&gt; mr-poker.el
+</p>
+
+<p>
+An Emacs package to practice memorizing poker cards.
+</p>
+
+<ul class="org-ul">
+<li><a href="https://github.com/jsntn/mr-poker.el">https://github.com/jsntn/mr-poker.el</a>
+</li>
+</ul>
+
+<p>
+&gt; org-task-scheduler.el
+</p>
+
+<p>
+Scans Org files to identify upcoming and missed scheduled/deadline tasks based on configured criteria.
+</p>
+
+<ul class="org-ul">
+<li><a href="https://github.com/jsntn/org-task-scheduler.el">https://github.com/jsntn/org-task-scheduler.el</a>
+</li>
+</ul>]]></description>
+	</item>
+<item>
         <title>Emacs KISS - TAGS</title>
         <link>https://note.jsntn.com/emacs-kiss.html</link>
         <guid></guid>
@@ -1894,7 +1948,7 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
         <title>无题</title>
         <link>https://note.jsntn.com/2023-untitled.html</link>
         <guid></guid>
-        <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
         <description><![CDATA[
 
 <div id="table-of-contents">
@@ -2059,7 +2113,7 @@ gJ74Yc5rL3h5o8UNmY//+4YPz53Htn8b+0R+7nAnxkXLcc3nG4BjjOCu
         <title>#TIL</title>
         <link>https://note.jsntn.com/2023-til.html</link>
         <guid></guid>
-        <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
         <description><![CDATA[
 
 <div id="table-of-contents">
