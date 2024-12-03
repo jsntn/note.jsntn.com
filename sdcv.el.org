@@ -1,0 +1,24 @@
+#+TITLE: sdcv.el
+#+DATE: [2024-12-03 Tue 22:54]
+
+sdcv.el 是我基于 Chen Bin 的 sdcv Elisp 实现代码修改而来的，
+
+- 支持多字典查询
+- 修改了字典的定义方式
+- 增加了 sdcv-mode
+
+详见：https://github.com/jsntn/sdcv.el
+
+我的其他 Emacs Package：
+
+> mr-poker.el
+
+An Emacs package to practice memorizing poker cards.
+
+- https://github.com/jsntn/mr-poker.el
+
+> org-task-scheduler.el
+
+Scans Org files to identify upcoming and missed scheduled/deadline tasks based on configured criteria.
+
+- https://github.com/jsntn/org-task-scheduler.el

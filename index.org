@@ -1,5 +1,6 @@
 #+TITLE: <hi@jsntn.com> Notes
 * 2024
+- [[./sdcv.el.org][sdcv.el]]
 - [[./emacs-kiss.org][Emacs KISS - TAGS]]
 - [[./ht.org][Habits Tracker]]
 - [[./3.1.1.org][3.1.1]]
